@@ -133,7 +133,7 @@
 /* Handouts Grid */
 .handouts-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 30px;
   margin-bottom: 40px;
 }
@@ -155,7 +155,7 @@
 }
 
 .card-header {
-  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
   padding: 20px;
   display: flex;
   justify-content: space-between;
@@ -185,7 +185,7 @@
 
 .card-body h3 {
   font-size: 16px;
-  color: #2a5298;
+  color: #ff6b35;
   margin: 0 0 8px 0;
   font-weight: 700;
 }
