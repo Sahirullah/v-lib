@@ -395,6 +395,9 @@ const Header = () => {
                   <Link to="/aiu-handout" onClick={handleDropdownClose}>Handouts</Link>
                 </div>
                 <div className="dropdown-submenu">
+                  <Link to="/aiu-midterm" onClick={handleDropdownClose}>Midterm</Link>
+                </div>
+                <div className="dropdown-submenu">
                   <a href="#aiou-final-term">Final Term <span className="dropdown-arrow">▶</span></a>
                   <div className="submenu">
                     <a href="#aiou-bio-final">Biology</a>
