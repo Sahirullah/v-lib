@@ -233,6 +233,14 @@
   box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
 }
 
+/* Download Buttons Grid */
+.download-buttons-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  width: 100%;
+}
+
 .no-results {
   text-align: center;
   padding: 60px 20px;

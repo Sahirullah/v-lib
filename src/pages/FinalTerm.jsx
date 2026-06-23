@@ -50,27 +50,20 @@ const FinalTerm = () => {
 
         <div className="papers-grid">
           {filteredPapers.map(paper => (
-            <div key={paper.id} className="paper-card">
-              <div className="card-header">
-                <div className="card-icon">{paper.image}</div>
-                <span className="status-badge">{paper.status}</span>
-              </div>
+            <div key={paper.id} className="paper-card-modern">
+              <div className="card-circle-icon">{paper.image}</div>
+              <h3 className="card-code">{paper.code}</h3>
+              <h4 className="card-title">{paper.title}</h4>
               
-              <div className="card-body">
-                <h3>{paper.code}</h3>
-                <h4>{paper.title}</h4>
-                <p>{paper.description}</p>
-              </div>
-
-              <div className="card-footer">
-                <div className="card-features">
-                  {paper.hasLecture && (
-                    <span className="feature-tag">📄 Papers</span>
-                  )}
-                </div>
-                <button className="download-btn">
-                  📥 Download PDF
-                </button>
+              <div className="download-buttons-grid">
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
+                <button className="download-btn-bordered">Download</button>
               </div>
             </div>
           ))}
