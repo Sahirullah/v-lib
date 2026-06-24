@@ -12,7 +12,7 @@ const VUHandout = () => {
     description: `Download complete VU updated handouts for ${item.title} (${item.code}) in PDF Format.`,
     status: 'Updated Handouts',
     hasLecture: true
-  }));
+  })).sort((a, b) => a.code.localeCompare(b.code));
 
   const categories = vuCategories;
 
@@ -68,9 +68,15 @@ const VUHandout = () => {
                     <span className="feature-tag">📝 Lecture-wise</span>
                   )}
                 </div>
-                <button className="download-btn">
-                  📥 Download PDF
-                </button>
+                {handout.link ? (
+                  <a href={handout.link} target="_blank" rel="noopener noreferrer" className="download-btn">
+                    📥 Download PDF
+                  </a>
+                ) : (
+                  <button className="download-btn" disabled>
+                    📥 Coming Soon
+                  </button>
+                )}
               </div>
             </div>
           ))}

@@ -6,6 +6,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import VUHandout from './pages/VUHandout'
 import AIUHandout from './pages/AIUHandout'
+import AIUMidterm from './pages/AIUMidterm'
 import Midterm from './pages/Midterm'
 import FinalTerm from './pages/FinalTerm'
 import Quizzes from './pages/Quizzes'
@@ -29,6 +30,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/vu-handout" element={<VUHandout />} />
             <Route path="/aiu-handout" element={<AIUHandout />} />
+            <Route path="/aiu-midterm" element={<AIUMidterm />} />
             <Route path="/midterm" element={<Midterm />} />
             <Route path="/final-term" element={<FinalTerm />} />
             <Route path="/quizzes" element={<Quizzes />} />

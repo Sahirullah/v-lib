@@ -2,6 +2,7 @@ export const vuHandoutsData = [
   // ACC - Accounting
   { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘' },
   { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' },
+  { id: 2.5, code: 'ACC331', title: 'Accounting', category: 'acc', image: '📘', link: 'https://drive.google.com/file/d/1-F4uxF6-5XxWmq9CN2ZlpZmoqbBJjOGM/view?usp=drive_link' },
   
   // BIF - Bioinformatics
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' },
