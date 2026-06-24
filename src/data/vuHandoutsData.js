@@ -39,9 +39,9 @@ export const vuHandoutsData = [
   
   // BT - Biotechnology
   { id: 31, code: 'BT101', title: 'Ecology, Biodiversity & Evolution-I', category: 'bt', image: '🧬', link : 'https://drive.google.com/file/d/1I4BYMNk1oLdfuX3ZPqHP8gFRk9rIttfI/view?usp=drive_link' },
-  { id: 32, code: 'BT102', title: 'Microbiology', category: 'bt', image: '🧬' ,link:''},
-  { id: 33, code: 'BT201', title: 'Ecology, Biodiversity & Evolution-II', category: 'bt', image: '🧬',link:'' },
-  { id: 34, code: 'BT302', title: 'Immunology', category: 'bt', image: '🧬' ,link:''},
+  { id: 32, code: 'BT102', title: 'Microbiology', category: 'bt', image: '🧬' ,link:'https://drive.google.com/file/d/1J5KXl8E2Af7GEHWyrw1XJEthae-AruPd/view?usp=drive_link'},
+  { id: 33, code: 'BT201', title: 'Ecology, Biodiversity & Evolution-II', category: 'bt', image: '🧬',link:'https://drive.google.com/file/d/1a3huJyCBcuk5z4I_uExph33NfYOMDij5/view?usp=drive_link' },
+  { id: 34, code: 'BT302', title: 'Immunology', category: 'bt', image: '🧬' ,link:'https://drive.google.com/file/d/1Ja2BPdcJN4o4RHrKLkKoHIdlPasIS9iP/view?usp=drive_link'},
   { id: 35, code: 'BT401', title: 'Genetic Resources & Conservation', category: 'bt', image: '🧬',link:'' },
   { id: 36, code: 'BT402', title: 'Microbial Biotechnology', category: 'bt', image: '🧬' ,link:''},
   { id: 37, code: 'BT404', title: 'Food Biotechnology', category: 'bt', image: '🧬' ,link:''},
