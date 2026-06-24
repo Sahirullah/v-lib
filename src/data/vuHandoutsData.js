@@ -1,14 +1,13 @@
 export const vuHandoutsData = [
   // ACC - Accounting
-  { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘' },
-  { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' },
-  { id: 2.5, code: 'ACC331', title: 'Accounting', category: 'acc', image: '📘', link: 'https://drive.google.com/file/d/1-F4uxF6-5XxWmq9CN2ZlpZmoqbBJjOGM/view?usp=drive_link' },
+  { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘', link: 'https://drive.google.com/file/d/1-F4uxF6-5XxWmq9CN2ZlpZmoqbBJjOGM/view?usp=drive_link' },
+  { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' , link: 'https://drive.google.com/file/d/1sTazPUBbOaXspt2MjEFV1cSAbyKg6O1H/view?usp=drive_link'},
   
   // BIF - Bioinformatics
-  { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' },
-  { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' },
-  { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬' },
-  { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' },
+  { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1B45XO7ZkQJyZwAeRhbPtOA7DcmZs3W16/view?usp=drive_link' },
+  { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1w_to7G7d8BI1Q47ATG4PxkFU_ZIQr5Ia/view?usp=drive_link' },
+  { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬'},
+  { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬', link: 'https://drive.google.com/file/d/1tu_hwqpiy0iQeEQtXlVvrpQguvfl8OAv/view?usp=drive_link' },
   { id: 7, code: 'BIF601', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬' },
   { id: 8, code: 'BIF602', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬' },
   { id: 9, code: 'BIF731', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬' },
