@@ -32,10 +32,10 @@ export const vuHandoutsData = [
   { id: 26, code: 'BIO734', title: 'Advance Cell Biology', category: 'bio', image: '🧪',link:'https://drive.google.com/file/d/1-VRGK8-bDXi6gil5RHlj7f8FaMWWXGBF/view?usp=drive_link' },
   
   // BNK - Banking
-  { id: 27, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼',link:'' },
-  { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼',link:'' },
-  { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼',link:'' },
-  { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼',link:'' },
+  { id: 27, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼',link:'https://drive.google.com/file/d/1w5yzbqx1MKIRKwIdG9uZRX13L4YbgGAX/view?usp=drive_link' },
+  { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼',link:'https://drive.google.com/file/d/1rHIE_5QJZqmnwsYI4wFL-HU7frlKonsx/view?usp=drive_link' },
+  { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼',link:'https://drive.google.com/file/d/1Fqfga74y0nLGlEJrg9O-xlZ1EXn7w548/view?usp=drive_link' },
+  { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼',link:'https://drive.google.com/file/d/1ckmwFvnqNQFum8qslD3cr_BBEs3ScZEt/view?usp=drive_link' },
   
   // BT - Biotechnology
   { id: 31, code: 'BT101', title: 'Ecology, Biodiversity & Evolution-I', category: 'bt', image: '🧬' },
