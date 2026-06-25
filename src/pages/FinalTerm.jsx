@@ -56,14 +56,25 @@ const FinalTerm = () => {
               <h4 className="card-title">{paper.title}</h4>
               
               <div className="download-buttons-grid">
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
-                <button className="download-btn-bordered">Download</button>
+                {paper.links && paper.links.length > 0 ? (
+                  paper.links.map((link, index) => (
+                    <a
+                      key={index}
+                      href={link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="download-btn-bordered"
+                    >
+                      Download
+                    </a>
+                  ))
+                ) : (
+                  Array(8).fill(0).map((_, i) => (
+                    <button key={i} className="download-btn-bordered" disabled>
+                      Coming Soon
+                    </button>
+                  ))
+                )}
               </div>
             </div>
           ))}

@@ -66,11 +66,37 @@ export const finalTermDataPart2 = [
   { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️',Link:'' },
   
   // CS - Computer Science (50-102)
-  { id: 50, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻',Link:'' },
-  { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻',Link:'' },
-  { id: 52, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻' ,Link:''},
-  { id: 53, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻',Link:'' },
-  { id: 54, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻' ,Link:''},
+  { id: 50, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1hRt8XjkOfywYEcLWciO2YYDm8LSGYPmb/view?usp=sharing',
+    'https://docs.google.com/document/d/1nNBBQh_uvlvVjcsV5pvxDI7MNnyFc5V6/edit?usp=sharing&ouid=114723537748519377381&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1KTY1_6hGQ1-w_2BbMeTKcctl6dh9WojY/edit?usp=sharing&ouid=114723537748519377381&rtpof=true&sd=true'
+  ] },
+  { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1QhLkLGyvlGSLSILus0DX1gDehTbaodVH/view?usp=sharing',
+    'https://drive.google.com/file/d/1PPfYdhmfITQ16zVWhdFxrNABoOxlLMEM/view?usp=sharing',
+    'https://drive.google.com/file/d/1upxqYF1Y6xuMXaJja2hWn5ZcDGfaYY7M/view?usp=sharing',
+    'https://drive.google.com/file/d/1hl0q95-11uQoRYm9djcQz4HlP7LWNe4-/view?usp=sharing'
+  ] },
+  { id: 52, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻' ,links:[
+    'https://drive.google.com/file/d/1NgEf8O1VgaKYZ70NWZ3nuwrYp3bTkJzl/view?usp=sharing',
+    'https://drive.google.com/file/d/1A8wMjGBSHMsMTXdKxFUJxHDczORjIodZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1zrgK9YL9QeSwFLP3AVSWM3PVx4G-onpC/view?usp=sharing',
+    'https://drive.google.com/file/d/1cxHmI9xESJZJcojN4c-rO4JFvVOtDxHo/view?usp=sharing',
+    'https://drive.google.com/file/d/1J_21SA_8369hOw4lxYo8wzkm-2tcogyi/view?usp=sharing',
+    'https://drive.google.com/file/d/1LFExHqqIhlVR32Iqs3bhDcqBo3xvaZcN/view?usp=sharing',
+    'https://drive.google.com/file/d/17t5odzdmAYQURvQtPrCHhX6csqpN5mrh/view?usp=sharing'
+  ]},
+  { id: 53, code: 'CS201p', title: 'Introduction to Programming practical', category: 'cs', image: '💻', links:[
+    'https://drive.google.com/file/d/1gSRqOmhaIlNhXPnkwBQde2PZazpbTxSb/view?usp=sharing',
+    'https://drive.google.com/file/d/1HzimU837zDYdKZGpadwxhSz0t3D4XkUv/view?usp=sharing'
+  ] },
+  { id: 53, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/1KCh5sdlQrtGXduKljCn3QxHlPGAZRNAa/view?usp=sharing',
+    'https://drive.google.com/file/d/1kYm8Dh-mah5n-3gV1ivTy5bcPSuYUtyU/view?usp=sharing'
+  ] },
+  { id: 54, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻' ,links:[
+    ''
+]},
   { id: 55, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻',Link:'' },
   { id: 56, code: 'CS206', title: 'Introduction to Network Design & Analysis', category: 'cs', image: '💻' ,Link:''},
   { id: 57, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻' ,Link:''},
