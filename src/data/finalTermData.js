@@ -333,6 +333,17 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1mvEk_hGcz14V8U2JEA9_hSsDNBSyr7qi/view?usp=sharing',
     'https://drive.google.com/file/d/1qb_aZOHry5t-kTSkupciK5Qrie2emJb-/view?usp=sharing'
   ] },
+  { id: 68, code: 'CS410', title: 'Visual Programming', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/1BX1AV9ojiKCfIseL5uoo1DdYnTWVFgl1/view?usp=sharing',
+    'https://drive.google.com/file/d/1NOlVKRH-8JDTurXoUlppeDrELfcxaopo/view?usp=sharing',
+    'https://drive.google.com/file/d/1S92OOKuU6ESl511dP5w5aFAN7cZx86vq/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ci3WFLLwOui0qW9f6tcFm-9Zz2TkOwU-/view?usp=sharing',
+    'https://drive.google.com/file/d/13wDS6-O3UPOPTPU44FX2dpV5_t4cbM5T/view?usp=sharing',
+    'https://drive.google.com/file/d/14pNCP2zI8kjOj_nDVLwMmr_tbrgUmNii/view?usp=sharing',
+    'https://drive.google.com/file/d/1mmqSDIJHWaOCdZmkf3laJYIFFLILKcQK/view?usp=sharing',
+    'https://docs.google.com/document/d/1czSWuV5tto8vj39kZ0QFsGn0ioMtjx7Y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1QHrwa5BbgZ3JXVmrsYX4BGU6fDW9Ym2w/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
   { id: 68, code: 'CS411', title: 'Visual Programming', category: 'cs', image: '💻',Link:'' },
   { id: 69, code: 'CS432', title: 'Network Modeling and Simulation', category: 'cs', image: '💻',Link:'' },
   { id: 70, code: 'CS435', title: 'Cloud Computing', category: 'cs', image: '💻',Link:'' },
