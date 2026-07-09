@@ -128,21 +128,44 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1lZB-LBrxmy63uXSNm3yqkSEwYMHKe2o0/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1_fwR4kIefS8mezDgLV7s9zmu4BpnHM2s/view?usp=sharing'
   ]},
-  { id: 39, code: 'BT406', title: 'Research Methodology & Skill Enhancement', category: 'bt', image: '🧬' ,Link:''},
-  { id: 40, code: 'BT501', title: 'Health Biotechnology', category: 'bt', image: '🧬' ,Link:''},
-  { id: 41, code: 'BT503', title: 'Environment Biotechnology', category: 'bt', image: '🧬' ,Link:''},
-  { id: 42, code: 'BT504', title: 'Genomics and Proteomics', category: 'bt', image: '🧬' ,Link:''},
-  { id: 43, code: 'BT505', title: 'Biosensors', category: 'bt', image: '🧬' ,Link:''},
+  { id: 39, code: 'BT406', title: 'Research Methodology & Skill Enhancement', category: 'bt', image: '🧬' ,links:[
+    
+  ]},
+  { id: 40, code: 'BT501', title: 'Health Biotechnology', category: 'bt', image: '🧬' ,links:[
+    'https://drive.google.com/file/d/1uUBhe5EVEg_ZgyNuuBc2MoVC5egpg9VF/view?usp=sharing'
+  ]},
+  { id: 41, code: 'BT503', title: 'Environment Biotechnology', category: 'bt', image: '🧬' ,links:[
+    'https://drive.google.com/file/d/1S52PDBmY6-IU29gAA5h5zud_GWxyG51p/view?usp=sharing'
+  ]},
+  { id: 42, code: 'BT504', title: 'Genomics and Proteomics', category: 'bt', image: '🧬' ,links:[
+    'https://drive.google.com/file/d/10S9ln2_FUdwI0w2E8X4xzIqAEgsOh1Gy/view?usp=sharing'
+  ]},
+  { id: 43, code: 'BT505', title: 'Biosensors', category: 'bt', image: '🧬' ,links:[
+    'https://drive.google.com/file/d/1eJBMd_jJwuvKRwt2jTIC_O2WX91gocX0/view?usp=sharing'
+  ]},
   { id: 44, code: 'BT511T', title: 'Introduction to Biotechnology (Theory)', category: 'bt', image: '🧬' ,Link:''},
   { id: 45, code: 'BT601', title: 'Virology', category: 'bt', image: '🧬' ,Link:''},
   { id: 46, code: 'BT603', title: 'Fermentation Technology', category: 'bt', image: '🧬' ,Link:''},
-  { id: 47, code: 'BT605', title: 'Biosafety & Bioethics', category: 'bt', image: '🧬' ,Link:''},
+  { id: 47, code: 'BT605', title: 'Biosafety & Bioethics', category: 'bt', image: '🧬' ,links:[
+    'https://drive.google.com/file/d/199CeOAppny_lcqsOtZwuqu_sEU3XJlOn/view?usp=sharing',
+    'https://drive.google.com/file/d/1baKinBFmI13_98p1VksvtXqrm3Of7hdc/view?usp=sharing',
+    'https://drive.google.com/file/d/1e90KzLHn5eqqmQVu2JXYmiSFzjnn2CJB/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZwgOmisfeJp28E4Bbj1oVi89R-BqVXeC/view?usp=sharing',
+    'https://drive.google.com/file/d/1tQWmqHChPOxF6Rhe5qT8uM_jiAIlwdwi/view?usp=sharing',
+    'https://drive.google.com/file/d/16JajwE_JiLnifHXcDqVxwYRqQE0ANNd3/view?usp=sharing'
+  ]},
 ];
 
 // Continuing with more courses...
 export const finalTermDataPart2 = [
   // CHE - Chemistry
-  { id: 48, code: 'CHE201', title: 'Thermodynamics', category: 'che', image: '⚗️' ,Link:''},
+  { id: 48, code: 'CHE201', title: 'Thermodynamics', category: 'che', image: '⚗️' ,links:[
+    'https://drive.google.com/file/d/1mfSzltqBeo3Se_t-iaICY1v_09V7bAWn/view?usp=sharing',
+    'https://drive.google.com/file/d/1D5iBqKBQjr1fU9mrVaz6WHx6hUPZwa88/view?usp=sharing',
+    'https://drive.google.com/file/d/1wwBZ4ZfO0p4jnXl7xIvgl4H7Lww8LQZ2/view?usp=sharing',
+    'https://drive.google.com/file/d/1DFXoPo029CA99CiSTHLZ_m9BrcXsA-Xr/view?usp=sharing',
+    'https://drive.google.com/file/d/19YVOBbb4w59TENmHz0ZYt_UD8Nwwyp_i/view?usp=sharing'
+  ]},
   { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️',Link:'' },
   
   // CS - Computer Science (50-102)
