@@ -463,7 +463,38 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/11_yFiZkBMlSmnQojBwNCrfjco7PPTYpw/view?usp=sharing'
   ]},
   { id: 237, code: 'ZOO511', title: 'Genetic Techniques', category: 'zoo', image: '🐾' },
-  { id: 238, code: 'ZOO512', title: 'Animal Diversity: Invertebrates', category: 'zoo', image: '🐾' },
+  { id: 237, code: 'ZOO503', title: 'Paleontology & Zoology', category: 'zoo', image: '🐾', links: [
+    'https://drive.google.com/file/d/1WyqoOxHixHT4iWTrpJO0JXhC4x82S_ik/view?usp=sharing',
+    'https://drive.google.com/file/d/1CMOMY3HCfXW7F7xOC4uaZQ6m9PEzIHKT/view?usp=sharing'
+  ] },
+  { id: 238, code: 'ZOO504', title: '---------------------', category: 'zoo', image: '🐾', links : [
+    'https://drive.google.com/file/d/1Vu3AXYHyAeBj_yvQj0zhXs54uNHlBDiX/view?usp=sharing',
+    'https://drive.google.com/file/d/1Yol0mhZvPoHtcrZ-PiPjd0WI-emZdWSP/view?usp=sharing',
+    'https://drive.google.com/file/d/1XviaD4JDX0JKkbyZw_3JONOLGhmeC5nX/view?usp=sharing',
+    'https://drive.google.com/file/d/10LNWwiKPzqfalurxjPyunnHXu0jBhvlN/view?usp=sharing',
+    'https://docs.google.com/document/d/1E9xXzllgQlgIdtvfd0PxzMPmO7VpfL5y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1XT-r8lLAB75-jLpfHOk1WsyN_gzOAQ1k/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 238, code: 'ZOO505', title: '---------------------', category: 'zoo', image: '🐾', links : [
+    'https://drive.google.com/file/d/1E0kd8XxzBua3K9EFPmihh1yEvCUyQh-x/view?usp=sharing',
+    'https://drive.google.com/file/d/1ixCFYP9uXHHyKaBT2jdYSkztD02HRsET/view?usp=sharing',
+    'https://drive.google.com/file/d/1f_rieM_3tMm7gMCe9HFAF0AZeHTfgchZ/view?usp=sharing'
+  ] },
+  { id: 238, code: 'ZOO506', title: 'Applied Entomology and pest Management', category: 'zoo', image: '🐾', links : [
+    'https://drive.google.com/file/d/1mEifZlmkY2OPMrE55rqi7i1gKVir3_wi/view?usp=sharing',
+    'https://drive.google.com/file/d/1JbBiysqhcj1yK2QIpX4HGAKk9eozbIDB/view?usp=sharing',
+    'https://drive.google.com/file/d/1o-kAqM395BY9zFeU3k3fsNJ2lqdk2Ebk/view?usp=sharing'
+  ]},
+  { id: 238, code: 'ZOO507', title: '------------------------', category: 'zoo', image: '🐾', links : [
+    'https://drive.google.com/file/d/1WUqYvpQJ-qgRaSf4Rd8Ql6WGXGy2XQQI/view?usp=sharing'
+  ] },
+  { id: 238, code: 'ZOO510', title: 'Economic Zoology', category: 'zoo', image: '🐾', links:[
+    'https://drive.google.com/file/d/1UIg84e6a7K5BhCib6EkgN5EZs302YBSP/view?usp=sharing'
+  ] },
+  { id: 238, code: 'ZOO630', title: 'Animal Diversity: Invertebrates', category: 'zoo', image: '🐾', links:[
+    'https://drive.google.com/file/d/1LchdYXuVe0asMUbtwp5r13Iceo9v73YY/view?usp=sharing',
+    'https://drive.google.com/file/d/1yX831CUtuJOFyhmI11XLyx7H6JPGZ0nZ/view?usp=sharing'
+  ] },
 ];
 
 // Merge all parts into one array
