@@ -344,7 +344,14 @@ export const finalTermDataPart2 = [
     'https://docs.google.com/document/d/1czSWuV5tto8vj39kZ0QFsGn0ioMtjx7Y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1QHrwa5BbgZ3JXVmrsYX4BGU6fDW9Ym2w/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ] },
-  { id: 68, code: 'CS411', title: 'Visual Programming', category: 'cs', image: '💻',Link:'' },
+  { id: 68, code: 'CS411', title: 'Visual Programming', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/1hYc90QcuHsZhnUr6i8JdaogJDBImULHn/view?usp=sharing',
+    'https://drive.google.com/file/d/1QzPl9m64e3lmABxOd4iTx9zdmGu4KpoO/view?usp=sharing',
+    'https://drive.google.com/file/d/111AKH8mFPp4RknGGp3ZO2vfCVK-iRDbT/view?usp=sharing',
+    'https://drive.google.com/file/d/1Z0ZAb9J1RlI33tcj1TpsjWCvAanZfYya/view?usp=sharing',
+    'https://drive.google.com/file/d/1WSGz2bSkzqvXFDPZoV65W_5Iv3jun8iD/view?usp=sharing',
+    'https://drive.google.com/file/d/1VYVa-NjDacKWytYmUoVCL6kaT_i1VRyU/view?usp=sharing'
+  ] },
   { id: 69, code: 'CS432', title: 'Network Modeling and Simulation', category: 'cs', image: '💻',Link:'' },
   { id: 70, code: 'CS435', title: 'Cloud Computing', category: 'cs', image: '💻',Link:'' },
   { id: 71, code: 'CS501', title: 'Advanced Computer Architecture', category: 'cs', image: '💻',Link:'' },
