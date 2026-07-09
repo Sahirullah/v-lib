@@ -55,9 +55,22 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1GLLCaKTGEW4klk1PCFYOM1_mYB4n7Y4r/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1dpq9bGslQ68sGAl4kBE5liyxL7YApqMa/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
-  
+  { id: 10, code: 'BIF732', title: 'Bioinformatics', category: 'bif', image: '🧬' ,links:[
+      ' https://docs.google.com/document/d/1KnAZ0USkVxuTFeYZbr2rxdDprK5FEu19/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 10, code: 'BIF733', title: 'Bioinformatics', category: 'bif', image: '🧬' ,links:''},
+
   // BIO - Biology
-  { id: 10, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪' ,Link:''},
+  { id: 10, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1QnBikvPiyxZGNoj7FwHEEM2ous0GiBjL/view?usp=sharing',
+    'https://drive.google.com/file/d/1aR0Vau3vGN-XfGPIXp_XR8LHSWGT6B8G/view?usp=sharing',
+    'https://drive.google.com/file/d/1i_A0Olr-5jW3iRrJ25jJi338C6YJIBgi/view?usp=sharing',
+    'https://drive.google.com/file/d/1Q-WeZuIFANhtg8zgeVdaAWEpDwOeYZma/view?usp=sharing',
+    'https://drive.google.com/file/d/1E7dfvnAzyvzMw0ziJlzUR7a5DgqfgqpU/view?usp=sharing',
+    'https://drive.google.com/file/d/1uPtEkDXQxXUjB-73EDbu4Wl8BZm7phGP/view?usp=sharing',
+    'https://drive.google.com/file/d/1gXtxV9RT12SPPyBA9JjpQCx8P16Q20bH/view?usp=sharing',
+    'https://drive.google.com/file/d/1xyma7VSdrpHUqGKFLxHWs9j56MlPixVc/view?usp=sharing'
+  ]},
   { id: 11, code: 'BIO102', title: 'Basic Biology II', category: 'bio', image: '🧪' ,Link:''},
   { id: 12, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪' ,Link:''},
   { id: 13, code: 'BIO202', title: 'Biochemistry I', category: 'bio', image: '🧪' ,Link:''},
