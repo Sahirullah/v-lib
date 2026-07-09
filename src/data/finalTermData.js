@@ -166,7 +166,9 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1DFXoPo029CA99CiSTHLZ_m9BrcXsA-Xr/view?usp=sharing',
     'https://drive.google.com/file/d/19YVOBbb4w59TENmHz0ZYt_UD8Nwwyp_i/view?usp=sharing'
   ]},
-  { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️',Link:'' },
+  { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️',links:[
+    'https://drive.google.com/file/d/1wGwtlnGShdARiwbAtUDXhEdyUZ3kZEt-/view?usp=sharing'
+  ] },
   
   // CS - Computer Science (50-102)
   { id: 50, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻', links: [
@@ -354,6 +356,13 @@ export const finalTermDataPart4 = [
   
   // MTH - Mathematics
   { id: 176, code: 'MTH001', title: 'Mathematics Course', category: 'mth', image: '📐' },
+  { id: 189, code: 'MTH100', title: 'Mathematics Course', category: 'mth', image: '📐',links:[
+    'https://drive.google.com/file/d/1VVr_Kq9m01FQhWyRM6reTvVDxli08Xo4/view?usp=sharing',
+    'https://drive.google.com/file/d/1uORazKDS6SFkOB4LLS3RAgMT428zXCor/view?usp=sharing',
+    'https://drive.google.com/file/d/1aGMV6aVFUXWxZ6QqVlNglnV8-woFLE-d/view?usp=sharing',
+    'https://drive.google.com/file/d/1m66YvU0lckLqd4wgIUH2m1yBAnaxfY0s/view?usp=sharing'
+  ]},
+
   { id: 177, code: 'MTH101', title: 'Calculus and Analytical Geometry', category: 'mth', image: '📐' },
   { id: 178, code: 'MTH102', title: 'Mathematics Course', category: 'mth', image: '📐' },
   { id: 179, code: 'MTH104', title: 'Mathematics Course', category: 'mth', image: '📐' },
@@ -366,7 +375,7 @@ export const finalTermDataPart4 = [
   { id: 186, code: 'MTH645', title: 'Mathematics Course', category: 'mth', image: '📐' },
   { id: 187, code: 'MTH646', title: 'Mathematics Course', category: 'mth', image: '📐' },
   { id: 188, code: 'MTH647', title: 'Mathematics Course', category: 'mth', image: '📐' },
-  
+
   // PAD - Public Administration
   { id: 189, code: 'PAD603', title: 'Governance, Democracy & Society', category: 'pad', image: '📜' },
   
@@ -429,9 +438,30 @@ export const finalTermDataPart4 = [
   { id: 231, code: 'ZOO304', title: 'Animal Behavior', category: 'zoo', image: '🐾' },
   { id: 232, code: 'ZOO305', title: 'Field Ecology', category: 'zoo', image: '🐾' },
   { id: 233, code: 'ZOO306', title: 'Bioinformatics in Zoology', category: 'zoo', image: '🐾' },
-  { id: 234, code: 'ZOO401', title: 'Endocrine Physiology', category: 'zoo', image: '🐾' },
-  { id: 235, code: 'ZOO501', title: 'Molecular Endocrinology', category: 'zoo', image: '🐾' },
-  { id: 236, code: 'ZOO502', title: 'Evolutionary Biology', category: 'zoo', image: '🐾' },
+  { id: 234, code: 'ZOO401', title: 'Endocrine Physiology', category: 'zoo', image: '🐾' ,links :[
+    'https://drive.google.com/file/d/1QERAv80gRpxXF409zrBSa0_25R8bLDAV/view?usp=sharing',
+    'https://docs.google.com/document/d/1k-PiO3MSpUknhDA3WjMCnc4hyuiVUJa-/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 235, code: 'ZOO501', title: 'Molecular Endocrinology', category: 'zoo', image: '🐾' , links : [
+    'https://drive.google.com/file/d/1GKig488j_BdChthXGebHdTDDFbg3dIHq/view?usp=sharing',
+    'https://drive.google.com/file/d/1Sq0hP9wtfcmeR6mQB93-uMhw-I4-xW62/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ya11DZr9mweZ53cSzd7Tnroud373trbp/view?usp=sharing',
+    'https://drive.google.com/file/d/1LCzMTC-O_pPTtnI7B1-BaM8FKuXPnlgz/view?usp=sharing'
+  ]},
+  { id: 236, code: 'ZOO502', title: 'Evolutionary Biology', category: 'zoo', image: '🐾', links : [
+    'https://drive.google.com/file/d/1OS4di3Ajy96DzhXeIlJspnl3TjZvMq9d/view?usp=sharing',
+    'https://drive.google.com/file/d/100f82GIUoqS_C3xetpTWD6hvb-OnS8KA/view?usp=sharing',
+    'https://drive.google.com/file/d/1r_DT8gCZLA9Q-bhLa4L88meDWQVfEb6l/view?usp=sharing',
+    'https://drive.google.com/file/d/1vIp1VuZhMWqPq_Tug9mA-N-7tmHkkD3n/view?usp=sharing',
+    'https://drive.google.com/file/d/1RkoRUJL3ddiK_b6EcTsGvpq0MsPdXwx-/view?usp=sharing',
+    'https://drive.google.com/file/d/15FN-htRT3d_lz0dmmoysIymiW-CEMRDv/view?usp=sharing',
+    'https://drive.google.com/file/d/14QfXQhiHVT4hmgsLlX4fU1rGR7C4NUpW/view?usp=sharing',
+    'https://drive.google.com/file/d/17-vj7Aiwfs9iP_MgaASJD4Vy_Wq7Q-8T/view?usp=sharing',
+    'https://drive.google.com/file/d/1rvXvv7XBBMxW1g94WEXuZbJkeyUAgDbD/view?usp=sharing',
+    'https://drive.google.com/file/d/1i_6Y2V8QGVVGP9LzTSK4m0OcgDh2I0BD/view?usp=sharing',
+    'https://drive.google.com/file/d/1JZXDPYZBvePE9NPbfUtIKCnWf2vpyN02/view?usp=sharing',
+    'https://drive.google.com/file/d/11_yFiZkBMlSmnQojBwNCrfjco7PPTYpw/view?usp=sharing'
+  ]},
   { id: 237, code: 'ZOO511', title: 'Genetic Techniques', category: 'zoo', image: '🐾' },
   { id: 238, code: 'ZOO512', title: 'Animal Diversity: Invertebrates', category: 'zoo', image: '🐾' },
 ];
