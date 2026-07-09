@@ -309,7 +309,16 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1a-ojHpChHoBwpwDMGiWdSr2yi1Hwlx43/view?usp=sharing',
     'https://drive.google.com/file/d/106lG49FBr-_CL1CzCeiZeODvnD2hdxGq/view?usp=sharing'
   ] },
-  { id: 65, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻',Link:'' },
+  { id: 65, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/1R48Aeq2BKjkAxEIjsz-abFua4VUXL4Wb/view?usp=sharing',
+    'https://drive.google.com/file/d/1L5qR1MLlDwwwwCTj1P0Sk3Bso4_zljFW/view?usp=sharing',
+    'https://drive.google.com/file/d/18-ULuoSEH6BF-d4uUSC-NLUGjdYTmQST/view?usp=sharing',
+    'https://drive.google.com/file/d/1wQ0REKsTnW4-tD5bHmy8tNR606IjI16d/view?usp=sharing',
+    'https://docs.google.com/document/d/19KQAPJX2nwVBvULcQsNbGkJTh8_Bf2lGTb0Wy--Ee90/edit?usp=sharing',
+    'https://drive.google.com/file/d/1JFhCTdOheAOssUEQ_yvQJcMi-DeLWBHb/view?usp=sharing',
+    'https://drive.google.com/file/d/1FIboOT2FixoBfg91zUuYyFE988aOrJ46/view?usp=sharing'
+  ] },
+  { id: 66, code: 'CS405', title: ' Database Programming using Oracle 11g', category: 'cs', image: '💻',Link:'' },
   { id: 66, code: 'CS407', title: 'Routing and Switching', category: 'cs', image: '💻',Link:'' },
   { id: 67, code: 'CS408', title: 'Human Computer Interaction', category: 'cs', image: '💻',Link:'' },
   { id: 68, code: 'CS411', title: 'Visual Programming', category: 'cs', image: '💻',Link:'' },
