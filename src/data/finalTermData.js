@@ -10,18 +10,51 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1BqXaJLhfCYT8Ljza5dKqT0ZRyJIpXFjG/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1xas-FpxGYyPs6FtcX8W85d2T6G8rL7C1/view?usp=sharing',
     'https://docs.google.com/document/d/1EWzZVo_zNHZo_F4hatwukCj29FP7kX9r/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1mx6dPdMUwfFEJxNnk8SEt3ShitVHmtoo/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+    'https://docs.google.com/document/d/1mx6dPdMUwfFEJxNnk8SEt3ShitVHmtoo/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1uF_fBr9Y4qPFcvlh8oSuhwvLQU76A450/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1JjBp_nFQTyIaxI23tT8wiZKiN8ITkQtk/view?usp=sharing'
   ]},
-  { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘',Link:'' },
+  { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘',links :[
+    'https://drive.google.com/file/d/1Z9kO5hXTrXFBPaYD_jclvji7lNspbt7p/view?usp=sharing',
+    'https://drive.google.com/file/d/1oVx3694iCnM-u5ZPHfG-nJfQkd09AEKd/view?usp=sharing'
+  ] },
   
   // BIF - Bioinformatics
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' ,Link:''},
-  { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' ,Link:''},
-  { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬',Link:'' },
-  { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,Link:''},
+  { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' ,links :[
+    'https://drive.google.com/file/d/1cSMoO4CPXQnR_teSethiXsUp7S730Zp5/view?usp=sharing',
+    'https://drive.google.com/file/d/1_MrAaD3GyNir8P6VwkqkrPhR7ACxYpzY/view?usp=sharing',
+    'https://drive.google.com/file/d/1OQECDlUWk_KzBfkHBX9TgthCmR3PIOw8/view?usp=sharing',
+    'https://drive.google.com/file/d/1wo_n1uurfPoei8eJROOPfRs3Eqfxssqc/view?usp=sharing',
+    'https://drive.google.com/file/d/1udCHwO3KFq6yW3TOiUZy-gwbRG6ZHTWD/view?usp=sharing',
+    'https://drive.google.com/file/d/1tf0F5aWWZ-f_a-a8VZjQFzVKl377uhCI/view?usp=sharing',
+    'https://drive.google.com/file/d/187YiyS7TSx5Xvm5H3XHKFxaV2jZd4V1z/view?usp=sharing',
+    'https://drive.google.com/file/d/1kyA6Tce6ATpCeo_xQcw0PW9NNUC01gZx/view?usp=sharing',
+    'https://docs.google.com/document/d/1hjLw6Jzw3rOb5vpVxlU4YO3coPrnpt1a/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1RAuP9xX8XrXutkqq0C3r6TouTYlBQ8dy/view?usp=sharing'
+  ]},
+  { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬',links:[
+    'https://docs.google.com/document/d/1CD44mp3vjH6Et-2Rd2ewGyBoY-o7FS-i/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,links:[
+    'https://drive.google.com/file/d/154JbhwFtsIhmiA5WCuS9sU4T0c1UYvGt/view?usp=sharing',
+    'https://drive.google.com/file/d/1z5cOBBOroT6cZeuVWHfhB6Vff0RxOzC0/view?usp=sharing',
+    'https://drive.google.com/file/d/1c-dJsyJfMPCyFbrrL4smoEz5l6GeJNqN/view?usp=sharing',
+    'https://drive.google.com/file/d/1fqzkquApj-pBVJHADDYbxaDaKBQLIP4Z/view?usp=sharing',
+    'https://drive.google.com/file/d/1Q-RPx225RtPJqw0JNfDXZvmVit4gKnB4/view?usp=sharing',
+    'https://docs.google.com/document/d/11W-GEbMWJyTbYEWvcGnq688uATrEo9MT/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1Mv0j6oYOZN22hGeE9ubXmMR3BUqS4kCt/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1-72wrW0ZFeIERQXG3QAHCRg2B-9PKamq/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1VKoZSH_UwsavKZVGm893QxJcpz0uuYsG/view?usp=sharing',
+    'https://docs.google.com/presentation/d/1oO28hfGrotVyLTr6_d8JWMyGyJkG9Bmf/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    ''
+  ]},
   { id: 7, code: 'BIF601', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬',Link:'' },
   { id: 8, code: 'BIF602', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬' ,Link:''},
-  { id: 9, code: 'BIF731', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬' ,Link:''},
+  { id: 9, code: 'BIF731', title: 'Advanced Bioinformatics', category: 'bif', image: '🧬' ,links:[
+    'https://docs.google.com/document/d/1GLLCaKTGEW4klk1PCFYOM1_mYB4n7Y4r/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1dpq9bGslQ68sGAl4kBE5liyxL7YApqMa/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
   
   // BIO - Biology
   { id: 10, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪' ,Link:''},
