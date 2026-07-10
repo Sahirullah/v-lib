@@ -408,9 +408,30 @@ export const finalTermDataPart2 = [
   { id: 77, code: 'CS510', title: 'Software Requirement & Specification', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing'
   ]},
-  { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,links:[]},
-  { id: 78, code: 'CS602', title: 'Computer Graphics', category: 'cs', image: '💻' ,Link:''},
-  { id: 79, code: 'CS604', title: 'Operating Systems', category: 'cs', image: '💻' ,Link:''},
+  { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,links:[
+    'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1hCQnXJNV9hyj0IHxbdmxFUuCgd24cT4t/view?usp=sharing',
+    'https://drive.google.com/file/d/1KVq-vNaixJbWRffrfmUPZmOVuAJzj7U6/view?usp=sharing',
+    'https://drive.google.com/file/d/1f8JOYRO9vd5Zjrw_uwL0vBeRHrxR82s1/view?usp=sharing'
+  ]},
+  { id: 78, code: 'CS602', title: 'Computer Graphics', category: 'cs', image: '💻' ,links:[
+    'https://drive.google.com/file/d/12yckahNpTsuXJacdYaTMPtY89bH35wSO/view?usp=sharing',
+    'https://drive.google.com/file/d/1J_anrYBcFky-XLhfSV-UBuFesacBIKSm/view?usp=sharing',
+    'https://drive.google.com/file/d/1hC_aLh290oGT86-AGoLErJzQq_C-6O9N/view?usp=sharing',
+    'https://drive.google.com/file/d/1vor8Eyr1r03BZTTE5rg2KaX7QGiBnd6B/view?usp=sharing',
+    'https://docs.google.com/document/d/1qfaMo07A8oc3QtzdE6rg7TU62H58yWms/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/19O2ncpKDcy9Jke15cP0zSrzeEOTZ6tvA/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 79, code: 'CS603', title: '----------------', category: 'cs', image: '💻' ,links:[]},
+  { id: 79, code: 'CS604', title: 'Operating Systems', category: 'cs', image: '💻' ,links:[
+    'https://drive.google.com/file/d/1TmGgFTrkgCnMTehjgrr13MJmPyAq4ZDD/view?usp=sharing',
+    'https://docs.google.com/document/d/1o72BKzXHfTXcEY3XKq_hLta0wU3C4OrG/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/19mp3u0OZBSnbLa_hLAzwM0cm1VdKvSZk/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1ajwhNE6KBSVWlVFxM0jIiez65Gw-9pRi/view?usp=sharing',
+    'https://docs.google.com/document/d/1KDhrYZrpHYGxa_M_fWrKpBiVWvauyyDT/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1BsBDJE9Luq77wO450BqSTdTEU_3Mn_KS/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1DjgCKJD9BFaAFfsSzM1mtZ4WqCZ8cmC5/view?usp=sharing'
+  ]},
   { id: 80, code: 'CS605', title: 'Software Engineering II', category: 'cs', image: '💻' ,Link:''},
   { id: 81, code: 'CS606', title: 'Compiler Construction', category: 'cs', image: '💻' ,Link:''},
   { id: 82, code: 'CS607', title: 'Artificial Intelligence', category: 'cs', image: '💻' ,Link:''},
