@@ -389,9 +389,26 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/13KtPGogcNJP3pSEbaqtJicdrsJ9EzOuB/view?usp=sharing',
     'https://drive.google.com/file/d/1qp2ZXFgR-hMaGemHpoJy6-IiyKvP9ZDV/view?usp=sharing'
   ] },
-  { id: 75, code: 'CS507', title: 'Information Systems', category: 'cs', image: '💻',Link:'' },
-  { id: 76, code: 'CS508', title: 'Modern Programming Languages', category: 'cs', image: '💻',Link:'' },
-  { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,Link:''},
+  { id: 75, code: 'CS507', title: 'Information Systems', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/1vv8tXRu64234fPCQqLpz8QSAdblWBPOi/view?usp=sharing',
+    'https://drive.google.com/file/d/1BGZA43XgqylMJvDXLZX_TXbH5i0XmmHM/view?usp=sharing',
+    'https://drive.google.com/file/d/1TQl6hkc0m2Noz2xeKwcoTrzjjprmcz_C/view?usp=sharing',
+    'https://drive.google.com/file/d/1UuG5eVpmrKiH0nkKRAhCUtff1CG47sdh/view?usp=sharing',
+    'https://drive.google.com/file/d/1W9E7qNuNPRjBISVUVXLyHebNF-ELGnvp/view?usp=sharing',
+    'https://drive.google.com/file/d/1PcaTlh1GkwONBasXhuJ5iqRwI6YzDW2X/view?usp=sharing',
+    'https://drive.google.com/file/d/1KaRdQyZM1HkwEf6-Qz6PCjtNm_jH4oB1/view?usp=sharing'
+  ] },
+  { id: 76, code: 'CS508', title: 'Modern Programming Languages', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/1E-I6lHZw6GUTxzsKC4EpSUjz2SPi7Jbt/view?usp=sharing',
+    'https://drive.google.com/file/d/1MPqKoAMaBImvsy-9cbtqSshVW27gahmg/view?usp=sharing',
+    'https://drive.google.com/file/d/1zkxHboVkSviinZp_3AqxhOm41gSCigSJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1v_F_3IQvzhUNxc-qMQOAUUSjtpi6jYA3/view?usp=sharing',
+    'https://drive.google.com/file/d/1IlAARSxQpLOJ25Kvbr3aszRTd4uiNIBc/view?usp=sharing'
+  ] },
+  { id: 77, code: 'CS510', title: 'Software Requirement & Specification', category: 'cs', image: '💻' ,links:[
+    'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing'
+  ]},
+  { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,links:[]},
   { id: 78, code: 'CS602', title: 'Computer Graphics', category: 'cs', image: '💻' ,Link:''},
   { id: 79, code: 'CS604', title: 'Operating Systems', category: 'cs', image: '💻' ,Link:''},
   { id: 80, code: 'CS605', title: 'Software Engineering II', category: 'cs', image: '💻' ,Link:''},
