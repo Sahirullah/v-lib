@@ -689,17 +689,29 @@ export const finalTermDataPart4 = [
   { id: 209, code: 'PSY632', title: 'Psychology Course', category: 'psy', image: '🧠' },
   
   // SOC - Sociology
-  { id: 210, code: 'SOC101', title: 'Sociology Course', category: 'soc', image: '👥' },
+  { id: 210, code: 'SOC101', title: 'Sociology Course', category: 'soc', image: '👥', links: [
+    'https://drive.google.com/file/d/1kHRdJgtZJiI66CkXcbtxhnQMovsVpcLv/view?usp=sharing',
+    'https://drive.google.com/file/d/13yKXFEYzMrs7LrYbJSjkAfXFDFV_kygm/view?usp=sharing',
+    'https://drive.google.com/file/d/1YiIwsX3J2KuEjvMnd6-P8gyHVe9dO80h/view?usp=sharing',
+    'https://drive.google.com/file/d/1K-Fwi5ZeW7BA_pDdNyekEYez89a71Zm-/view?usp=sharing',
+    'https://drive.google.com/file/d/1o_1vSs2aLqpwx7Yr88n-KEsxcmqpjc78/view?usp=sharing',
+    'https://drive.google.com/file/d/1O1UG7oA4EP5Twl1ceK_NoWPrKcD5wJgu/view?usp=sharing'
+  ] },
   { id: 211, code: 'SOC301', title: 'Sociology Course', category: 'soc', image: '👥' },
   { id: 212, code: 'SOC302', title: 'Sociology Course', category: 'soc', image: '👥' },
-  { id: 213, code: 'SOC401', title: 'Sociology Course', category: 'soc', image: '👥' },
+  { id: 213, code: 'SOC401', title: 'Sociology Course', category: 'soc', image: '👥', links :[
+    'https://drive.google.com/file/d/1dS2qr-spq3SslkmhLIf3CSsoNai5VHXy/view?usp=sharing',
+    'https://drive.google.com/file/d/1VFeWFKDBZxhxayljvqLEkb9BhJMxi1lX/view?usp=sharing'
+  ] },
   { id: 214, code: 'SOC402', title: 'Sociology Course', category: 'soc', image: '👥' },
   { id: 215, code: 'SOC403', title: 'Sociology Course', category: 'soc', image: '👥' },
   { id: 216, code: 'SOC404', title: 'Sociology Course', category: 'soc', image: '👥' },
   { id: 217, code: 'SOC602', title: 'Sociology Course', category: 'soc', image: '👥' },
   
   // STA - Statistics
-  { id: 218, code: 'STA301', title: 'Statistics Course', category: 'sta', image: '📊' },
+  { id: 218, code: 'STA301', title: 'Statistics Course', category: 'sta', image: '📊', links: [
+    'https://drive.google.com/file/d/1rDuTUdMrQI3-GjfC3w_f6ZW_xKbzaPyw/view?usp=sharing'
+  ] },
   { id: 219, code: 'STA404', title: 'Statistics Course', category: 'sta', image: '📊' },
   { id: 220, code: 'STA406', title: 'Statistics Course', category: 'sta', image: '📊' },
   { id: 221, code: 'STA630', title: 'Statistics Course', category: 'sta', image: '📊' },
