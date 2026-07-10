@@ -535,10 +535,42 @@ export const finalTermDataPart2 = [
 
 export const finalTermDataPart3 = [
   // ECO - Economics
-  { id: 103, code: 'ECO401', title: 'Economics', category: 'eco', image: '📊',Link:'' },
-  { id: 104, code: 'ECO402', title: 'Microeconomics', category: 'eco', image: '📊',Link:'' },
-  { id: 105, code: 'ECO403', title: 'Macroeconomics', category: 'eco', image: '📊',Link:'' },
-  { id: 106, code: 'ECO404', title: 'Managerial Economics', category: 'eco', image: '📊',Link:'' },
+  { id: 103, code: 'ECO401', title: 'Economics', category: 'eco', image: '📊',links:[
+    'https://drive.google.com/file/d/1InO_adTD8P-U9yv_ALjwnbuLnNoG02sP/view?usp=sharing',
+    'https://drive.google.com/file/d/1mAHPoIXWk15J9a7Qw3Lxa_dHj93tH8di/view?usp=sharing',
+    'https://drive.google.com/file/d/1XLDu_UztcFzihMMX_Sh9NKuG9474iQo8/view?usp=sharing',
+    'https://drive.google.com/file/d/1HXr6fBHvYJG7o73PWPNR1xQQaekf2ZYd/view?usp=sharing',
+    'https://drive.google.com/file/d/1LvcHhy3QSZ-Z42V5J_3umzcuNniEqyXS/view?usp=sharing',
+    'https://drive.google.com/file/d/1cFSS_3eNL0jziZnn0BxZQF7kkNd1OABt/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ivsn_eNi5OLXiUAO0J9c_HO3s2jdByu5/view?usp=sharing',
+    'https://drive.google.com/file/d/1PPWu0D7A22qUBguKkzkM9979H5ofC3Fl/view?usp=sharing',
+    'https://drive.google.com/file/d/1k4vV8PnXyNdx1Kh80ZeeZd0mrERK5iNp/view?usp=sharing'
+  ] },
+  { id: 104, code: 'ECO402', title: 'Microeconomics', category: 'eco', image: '📊',links:[
+    'https://drive.google.com/file/d/16x6cmxhVlDY0T9xOihef-4Fc9gsa4atd/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZXQk5eQnIzX4xQzhoCopUnQd67YNUgjT/view?usp=sharing',
+    'https://drive.google.com/file/d/1pVViIA1sVNFPbwIk7OE6Znl-dWrzQYkA/view?usp=sharing',
+    'https://drive.google.com/file/d/1zg_MgrZ4woPX2q6u87MeJWFtGohDyYuo/view?usp=sharing',
+    'https://drive.google.com/file/d/1naV9V3VHcVVQHWI-VU-ydi7mkOi6bqIm/view?usp=sharing',
+    'https://drive.google.com/file/d/15P3mPKsoUq1biag5weC52nL1jfeMtRX8/view?usp=sharing',
+    'https://drive.google.com/file/d/1gapdUZn-WM18n-E3oF6T-CzaR6k4nYwX/view?usp=sharing',
+    'https://drive.google.com/file/d/1d0wLqy0_V-TBRyJQtzgcbXHwP6LM8y65/view?usp=sharing',
+    'https://drive.google.com/file/d/13PbXB_kjFM9VJZUxd9EQzhUS5nrHKdkK/view?usp=sharing'
+  ] },
+  { id: 105, code: 'ECO403', title: 'Macroeconomics', category: 'eco', image: '📊',links:[
+    'https://drive.google.com/file/d/17fabzfaKqx7gc6pvT3yCZmnAG0tnhdOc/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZbLQhnC38tXLP9aj_o-EtoIuieQZ2WGH/view?usp=sharing',
+    'https://drive.google.com/file/d/1pNEmzYkUtG9YsRkeplXzKxp4LTJxlGgy/view?usp=sharing',
+    'https://drive.google.com/file/d/1J92DUBAWev6zUvhrjFnHw-FaFJpqyVhm/view?usp=sharing',
+    'https://drive.google.com/file/d/1-MGEcKYOd62cjiGBFP192Mj9rHnH6AGq/view?usp=sharing',
+    'https://drive.google.com/file/d/1x_pIZZjNsx20omDahE9nP84OrxX088WG/view?usp=sharing'
+  ] },
+  { id: 106, code: 'ECO404', title: 'Managerial Economics', category: 'eco', image: '📊',links:[
+    'https://drive.google.com/file/d/1KP5X6AGkkNL1BtIb5O_JwMMWljobZTLD/view?usp=sharing',
+    'https://drive.google.com/file/d/1pR6fqdZDb3bJSyfDRAIPXoiIoNbY8T3R/view?usp=sharing',
+    'https://drive.google.com/file/d/1bryh5lclDYfEeoRcL0Nv15U2EJ0ybo1o/view?usp=sharing',
+    'https://drive.google.com/file/d/1QZE2--kMBr3YmrFQV0dNxvS2YXoIajhZ/view?usp=sharing'
+  ] },
   { id: 107, code: 'ECO501', title: 'Development Economics', category: 'eco', image: '📊',Link:'' },
   { id: 108, code: 'ECO601', title: 'Business Econometrics', category: 'eco', image: '📊' },
   { id: 109, code: 'ECO606', title: 'Mathematical Economics I', category: 'eco', image: '📊' },
