@@ -352,11 +352,37 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1WSGz2bSkzqvXFDPZoV65W_5Iv3jun8iD/view?usp=sharing',
     'https://drive.google.com/file/d/1VYVa-NjDacKWytYmUoVCL6kaT_i1VRyU/view?usp=sharing'
   ] },
-  { id: 69, code: 'CS432', title: 'Network Modeling and Simulation', category: 'cs', image: '💻',Link:'' },
-  { id: 70, code: 'CS435', title: 'Cloud Computing', category: 'cs', image: '💻',Link:'' },
-  { id: 71, code: 'CS501', title: 'Advanced Computer Architecture', category: 'cs', image: '💻',Link:'' },
-  { id: 72, code: 'CS502', title: 'Fundamentals of Algorithms', category: 'cs', image: '💻',Link:'' },
-  { id: 73, code: 'CS504', title: 'Software Engineering I', category: 'cs', image: '💻',Link:'' },
+  { id: 69, code: 'CS432', title: 'Network Modeling and Simulation', category: 'cs', image: '💻',links:'' },
+  { id: 70, code: 'CS435', title: 'Cloud Computing', category: 'cs', image: '💻',links:'' },
+  { id: 71, code: 'CS501', title: 'Advanced Computer Architecture', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/11LHqu9MpfQAJPJpb66Rr4PrAD7pl4mZD/view?usp=sharing',
+    'https://drive.google.com/file/d/1YGg57m_OpQyJU_Ts8Gr_TV4eT0cU3D3Z/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZdGN7_Be0Pa709E0mHqfYGgfmZVx-G2a/view?usp=sharing',
+    'https://drive.google.com/file/d/1xNjhLxuEB4X2moxHNq39i7KzV16h3208/view?usp=sharing',
+    'https://drive.google.com/file/d/1u33ID8gVC3T8mJAlQYXU63rv2Le6airv/view?usp=sharing',
+    'https://drive.google.com/file/d/1zC8EYuKLU7zjM35WXNQPOICmcvsalT23/view?usp=sharing',
+    'https://docs.google.com/document/d/1ltRLcs_jhFnEofmfIIZ8EUikkUOvZYTa/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1wNrSS8uKJPHfE62yeOOHxkKt2a-qxDSZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1sdPM5Ki3ICruuDxygv2EPjc2wmvusssx/view?usp=sharing',
+    'https://drive.google.com/file/d/1oLEwgPHdsXJucxEmadqKaL-oZ09S-F30/view?usp=sharing'
+  ] },
+  { id: 72, code: 'CS502', title: 'Fundamentals of Algorithms', category: 'cs', image: '💻',links:[
+    'https://docs.google.com/document/d/1-j9ede3ijd7xGM2ZmwBgMLUq5JaQ3TMl/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1_4hFVu599nSpKAoyCxS2l54bPxS7FJ5t/view?usp=sharing',
+    'https://docs.google.com/document/d/1ppbNBtFCwjKnzO6sVU70dX0_r139Gv6-/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1bxX4MFT08qxR65hL-UorY6sr61G1RFwt/view?usp=sharing',
+    'https://docs.google.com/document/d/1Kvsomkte-A6ONIOBVsCTAnQP14jErdXq/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1EJEmyUpW96pJcq5A9uh2eDL-A9jWA82R/view?usp=sharing'
+  ] },
+  { id: 73, code: 'CS504', title: 'Software Engineering I', category: 'cs', image: '💻',links:[
+    'https://drive.google.com/file/d/14VhyJ7iDsFh7XUE6xrRJ5F7FzSFX2o0G/view?usp=sharing',
+    'https://drive.google.com/file/d/1Q6NLtEcl7cvhcR2Bp19xnJK3Xnx_BdXO/view?usp=sharing',
+    'https://drive.google.com/file/d/114CRaF4ui925VclXxhnO1LUZFBqJ0lWk/view?usp=sharing',
+    'https://docs.google.com/document/d/1n_w3eGOJOpWw8JB-S1PQ47gdo0bkYixh/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1GMiK00S1u4MtgwDbkOP-ECq96pl9MMbC/view?usp=sharing',
+    'https://drive.google.com/file/d/1BanEgy_qzXWst3Lf97jytt9T8hhOJdeN/view?usp=sharing',
+    'https://drive.google.com/file/d/1zjCpFIBEMOXah_xnFlPBXf0VDGAsCsfx/view?usp=sharing'
+  ] },
   { id: 74, code: 'CS506', title: 'Web Design and Development', category: 'cs', image: '💻',Link:'' },
   { id: 75, code: 'CS507', title: 'Information Systems', category: 'cs', image: '💻',Link:'' },
   { id: 76, code: 'CS508', title: 'Modern Programming Languages', category: 'cs', image: '💻',Link:'' },
