@@ -659,9 +659,80 @@ export const finalTermDataPart3 = [
   { id: 114, code: 'EDU712', title: '-------------------', category: 'edu', image: '🎓', links: []},
 
   // ENG - English
-  { id: 115, code: 'ENG001', title: 'English Course', category: 'eng', image: '📚' },
-  { id: 116, code: 'ENG101', title: 'English Course', category: 'eng', image: '📚' },
-  { id: 117, code: 'ENG201', title: 'English Course', category: 'eng', image: '📚' },
+  { id: 115, code: 'ENG001', title: 'English Course', category: 'eng', image: '📚' , links: [
+    'https://drive.google.com/file/d/1HB6dprQyzSHbDb84FuSfePs3uAjFE1gZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1RsPFSsZ7qWJC9RlsTIxryI29WT0HOdKm/view?usp=sharing',
+    'https://drive.google.com/file/d/1VlSY_Ees9R-TDbrvcvQdSeQNbSHyhlYy/view?usp=sharing',
+    'https://drive.google.com/file/d/16WigVw7ZKuroyhRFZUaqCTdwU9PZRKIc/view?usp=sharing',
+    'https://drive.google.com/file/d/1NVuTa7U8_cx88LIrEc_6HoWjX66WKEE8/view?usp=sharing',
+    'https://drive.google.com/file/d/1AkNNQu27ZOiWjOPExnDUYyEGIspRYxDA/view?usp=sharing'
+  ]},
+  { id: 116, code: 'ENG101', title: 'English Course', category: 'eng', image: '📚', links:[
+    'https://drive.google.com/file/d/1eieTxOdtorKsYj4LMFiZ0Gb4g5PXHfT5/view?usp=sharing',
+    'https://drive.google.com/file/d/1DDIgAqym3y2XU8kuRQuGJm6eR7rfdCvi/view?usp=sharing',
+    'https://drive.google.com/file/d/1rCCPruhM_5vXkDWrf0PP7lySpQfyoc15/view?usp=sharing',
+    'https://drive.google.com/file/d/15DtMZ0qiZu6Tca6huVfszilgeyAg2OVr/view?usp=sharing',
+    'https://drive.google.com/file/d/1v2ljfV000IVZyF4n7khNluQRw_gkVQbY/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG201', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/1IFmPMkDa63X9sZ3norebcSiZWmQoguL_/view?usp=sharing',
+    'https://docs.google.com/document/d/1WSDtCE2scqOehTG-85CMT2p32fFA_-nF/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1h0xVysj3qnS5ziFlDBLabjXvtPahu35y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1j7glH2tgkxPXnF18PM-0oiHenoG-QR5x/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/14Uym7Bsgb-SfmbciTP1zP04sn4-sKdqc/view?usp=sharing',
+    'https://drive.google.com/file/d/1PRHCYeiX1tiOablIWzeRGs-0fthUkyUH/view?usp=sharing',
+    'https://drive.google.com/file/d/1riiDFmVu-lvGchrKS52L4rPmh4ro4-ww/view?usp=sharing',
+    'https://docs.google.com/document/d/1uGGQ-bVdJM_8F2npJ51iFI2o5OB0UP5p/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1QkaCtwxfw0MxWHsoJXzA3Axruwy9hPw9/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1L04tdMFHIzgSozxsjCVNoQEtG5Hr2B2J/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 117, code: 'ENG301', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/10JG4gu2XvFR_a1mIIM1_1HwXu9dS8xfa/view?usp=sharing',
+    'https://drive.google.com/file/d/1uMLc2OvnazJqoLcWTIYmP8hqbRKjzBA5/view?usp=sharing',
+    'https://drive.google.com/file/d/1DkDvoRW0XyvjqBB-0C5bgegjSNxXOr9H/view?usp=sharing',
+    'https://drive.google.com/file/d/1rJgYO3fEEHneGBgHzdFa2EHTbe4vHCyk/view?usp=sharing',
+    'https://drive.google.com/file/d/1NZ3qHSZoGNnCFjdkuOnWt9pFeQK_EW5X/view?usp=sharing',
+    'https://drive.google.com/file/d/1kEsrBMsJM8wDI_cBsGjIiy2frsEwdneH/view?usp=sharing',
+    'https://drive.google.com/file/d/1UkOPUnx8ei2PQfrzYV9AoH3uzT2GAxQM/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG501', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/1_YDXthVJjOAuoWaOTvoWbkE569Q1v3Bf/view?usp=sharing',
+    'https://drive.google.com/file/d/1N91Yzn0WRwlzN64AhjOsQIpnu9s3MJKA/view?usp=sharing',
+    'https://drive.google.com/file/d/1UizZuWO3b1FkOeYtGUUwwD_7r5WjXS_O/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG502', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/1BakeEpfshtCA4p9EnH8sf0zHNX3eE_yZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1KVpvbepRMmuT7su7T4wEViIISX_g5CKh/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG503', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/122DOZuLVWKptN32NB2-UVM7e4LmFNANp/view?usp=sharing',
+    'https://drive.google.com/file/d/1dFLNFgQjLlGXYVKziPNeNxmpFNiMbQGu/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG504', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/1dFLNFgQjLlGXYVKziPNeNxmpFNiMbQGu/view?usp=sharing',
+    'https://drive.google.com/file/d/1r0aMV5RRASWr_QkyOsumC6rQYfXJemrt/view?usp=sharing',
+    'https://drive.google.com/file/d/1f5XUhDEXNLGs2smxktNcedQWCXCIK2Q9/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG505', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/1Z1dB21wZB0X6KgAQ8s6CHw16uCDy9wDd/view?usp=sharing',
+    'https://drive.google.com/file/d/1BN7DypGLXgaA7w-TbVUUuIZJtY2zZPjZ/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG506', title: 'English Course', category: 'eng', image: '📚',links:[
+    'https://drive.google.com/file/d/1AX2HjkiFtmJ916vCVNlxdaFQfah3ngfQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1c7at7lFi3Htkpf6d7hXuvjOixF0Un8WJ/view?usp=sharing'
+  ] },
+  { id: 117, code: 'ENG507', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG507', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG509', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG510', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG511', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG512', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG513', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG515', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG516', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG518', title: 'English Course', category: 'eng', image: '📚',links:[] },
+  { id: 117, code: 'ENG519', title: 'English Course', category: 'eng', image: '📚',links:[] },
+
   
   // ETH - Ethics
   { id: 118, code: 'ETH201', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠' },
