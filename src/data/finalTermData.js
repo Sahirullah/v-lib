@@ -739,12 +739,53 @@ export const finalTermDataPart3 = [
   { id: 119, code: 'ETH202', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠' },
   
   // FIN - Finance
-  { id: 120, code: 'FIN611', title: 'Finance Course', category: 'fin', image: '💰' },
-  { id: 121, code: 'FIN621', title: 'Finance Course', category: 'fin', image: '💰' },
-  { id: 122, code: 'FIN622', title: 'Finance Course', category: 'fin', image: '💰' },
-  { id: 123, code: 'FIN623', title: 'Finance Course', category: 'fin', image: '💰' },
+  { id: 120, code: 'FIN611', title: 'Finance Course', category: 'fin', image: '💰',links:[
+    'https://drive.google.com/file/d/1g5okRbSkGjD66iNSw9tdoemBkwxXyoUb/view?usp=sharing',
+    'https://drive.google.com/file/d/1fe6dgGcPDqvE6tUfxfPMLJrKWwo33xwV/view?usp=sharing',
+    'https://drive.google.com/file/d/1kr5JbalTrJXnzaur7S7-_MFT2qmgZhqw/view?usp=sharing',
+    'https://drive.google.com/file/d/1m4phhEWUcaygDKXfEMLpUhn5YAXy7-1j/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZzZqrO4kMinSg_E3MHdqD5jWW83ZNsLr/view?usp=sharing'
+  ] },
+  { id: 121, code: 'FIN621', title: 'Finance Course', category: 'fin', image: '💰', links:[
+    'https://drive.google.com/file/d/1tBjbP1P0rLsd-oPn6_b5OWADvuyKym8h/view?usp=sharing',
+    'https://drive.google.com/file/d/1HdfJ0FfTYzfece3cYN5cgjv8go7mWtir/view?usp=sharing',
+    'https://drive.google.com/file/d/1EYJaBJisB4p8NV7M7fL0JCeAkGmbCtvx/view?usp=sharing',
+    'https://drive.google.com/file/d/1-hcQ-1HlQJ-x6InuZcdTMUqRdnsBOzCt/view?usp=sharing',
+    'https://drive.google.com/file/d/1cHe31_m7CpimER9tCC5t9BtsN5i7Qv2b/view?usp=sharing',
+    'https://drive.google.com/file/d/1xZ6Njfumblbyw1v1B0onxcXfxzibQbnY/view?usp=sharing',
+    'https://drive.google.com/file/d/1QKyUpkY5EnU61Z6ADrb0oTK-0FLQ3vp5/view?usp=sharing'
+  ] },
+  { id: 122, code: 'FIN622', title: 'Finance Course', category: 'fin', image: '💰', links: [
+    'https://drive.google.com/file/d/1mKhx6t1-tU1X4ybE5WrChrjvYLNNpzVg/view?usp=sharing',
+    'https://drive.google.com/file/d/1uaJWcmhS6ACCPWtIexnIgMn5fVWUO5W-/view?usp=sharing',
+    'https://drive.google.com/file/d/1-E1eG8ihchuOb88HOpCzt1nhxmjTLkf0/view?usp=sharing',
+    'https://drive.google.com/file/d/1qdUd-aYd4djSPJFKLy8fgZLscClkwwbU/view?usp=sharing',
+    'https://drive.google.com/file/d/1AoxWbT0548MS2c3V5KDHnXhO6CTEnQQM/view?usp=sharing',
+    'https://drive.google.com/file/d/1wCEBtEjJn9ami36p4iscThfCRX0GLGJC/view?usp=sharing',
+    'https://drive.google.com/file/d/1C3bz-2GAU_JzyvXU70H60WWpytu84ixg/view?usp=sharing',
+    'https://drive.google.com/file/d/18gRA7NJiq_fXA9pfL7lU_fuaB0F_3j8R/view?usp=sharing',
+    'https://drive.google.com/file/d/11JokFy3P-a4wnje8O9eIVYel8Xvniljh/view?usp=sharing',
+    'https://drive.google.com/file/d/1FUokME_eM1I3fUbIQBqCCicGlsZ3gNDF/view?usp=sharing',
+    'https://drive.google.com/file/d/1qseOIA98bB-mHNTVw8TLd_vO6xx3TQJG/view?usp=sharing'
+  ] },
+  { id: 123, code: 'FIN623', title: 'Finance Course', category: 'fin', image: '💰', links:[
+    'https://drive.google.com/file/d/11ufFYiaZ8gO-J5pN-Sgim6qpDxL5abEY/view?usp=sharing',
+    'https://drive.google.com/file/d/1sKP4dTO6BhD1_mfOIiBB10_RKaHKiXHK/view?usp=sharing',
+    'https://drive.google.com/file/d/1WAAvikEovlb0H9Ogu6K6f-np5giEYebT/view?usp=sharing',
+    'https://drive.google.com/file/d/1cmlaJSbpL6jOi9GvLTVTEkj40GNlu81Y/view?usp=sharing',
+    'https://drive.google.com/file/d/1taN0fpQd_Gz_LhhQQJ9-AgqWgiNA2lle/view?usp=sharing',
+    'https://drive.google.com/file/d/18i-vVFxeFBChyehfTMW3yDqjD2yV7ct3/view?usp=sharing',
+    'https://drive.google.com/file/d/1TZmxczjsLzZkdgDBYPJu3h0e0p0KDAdO/view?usp=sharing'
+  ]},
   { id: 124, code: 'FIN624', title: 'Finance Course', category: 'fin', image: '💰' },
   { id: 125, code: 'FIN625', title: 'Finance Course', category: 'fin', image: '💰' },
+  { id: 125, code: 'FIN630', title: 'Finance Course', category: 'fin', image: '💰', links:[
+    'https://docs.google.com/document/d/1O2bHRIAXHJEAJaceXBMIAZlp5E7d1R_Z/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/17xWJTtDholyI_W9qEJPRrW64W_koTySS/view?usp=sharing',
+    'https://drive.google.com/file/d/1_c1pmMeOek2EcWoNNvStPw3bMtTvHjpg/view?usp=sharing'
+  ] },
+  { id: 125, code: 'FIN730', title: 'Finance Course', category: 'fin', image: '💰' },
+
   
   // GSC - General Science
   { id: 126, code: 'GSC101', title: 'General Science', category: 'gsc', image: '🌍' },
