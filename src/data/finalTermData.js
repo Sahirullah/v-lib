@@ -581,10 +581,66 @@ export const finalTermDataPart3 = [
   { id: 111, code: 'ECO612', title: 'Population Economics', category: 'eco', image: '📊' },
   
   // EDU - Education
-  { id: 112, code: 'EDU101', title: 'Education Course', category: 'edu', image: '🎓' },
-  { id: 113, code: 'EDU201', title: 'Education Course', category: 'edu', image: '🎓' },
-  { id: 114, code: 'EDU301', title: 'Education Course', category: 'edu', image: '🎓' },
-  
+  { id: 112, code: 'EDU101', title: 'Education Course', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1mIKkVNGHgUhTXREtQ1FMRpVO_mx5gqFw/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 113, code: 'EDU201', title: 'Education Course', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/165rfy7_tx4-U83zEuDl7ye8JlEjcAyZh/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 114, code: 'EDU301', title: 'Education Course', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1TKIh3vJIXcKfYUefsEbNDR6AZ6rqzUiu/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1Bc0rjg-FRLZB1GEFC3aenjhhM3qXnB8d/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 114, code: 'EDU303', title: '----------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU304', title: 'student guidance & counselling', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/194oX4ab_Z1JsqY60e11OxPOjL-935rbV/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU305', title: '---------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1GdE1DO5wfSbo-QJ9uIJ11LQiMVKBZ5a4/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU401', title: 'Contemporary Issues and Trends in Education', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU402', title: 'Curriculum Development', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1MCY94I67kNh8yQNK1ZoLr7kkj4sOysRZ/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1iUn2C_-aSbMBTFplVd_2napA1vNsFknd/view?usp=sharing',
+    'https://docs.google.com/document/d/1SJ9ApHn2NucM4XBvgNTFOzjsAiKKtIKj/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1zbuznHpgW9jwIhVHjst3nrFnYwUSivU7/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU403', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU404', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU405', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1WmwhkuV2IXGUckoZtsGF3msQgR1tW8bo/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU406', title: 'Critical Thinking and reflective Practice', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1LKLeDCkAy2zT24VtYQKIGwtNBNii4KZV/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU410', title: 'Teaching of Literacy Skills', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1pbXex5Ok3c8s6ovbswfH7DmKaH7gXYR1/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU411', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU430', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1ke-A5j5PgySKudRVCw2Ozt3RjKhEKixL/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU431', title: 'Test Development and Assessment', category: 'edu', image: '🎓', links: [
+    'https://drive.google.com/file/d/1gox7babwm-OxUWjCFioeX8KbUq8quoBg/view?usp=sharing'
+  ]},
+  { id: 114, code: 'EDU501', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1l33_FyBBSOSmdKJ6vuDyI041FOrsk00v/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU505', title: 'Education Development in Pakistan', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1l33_FyBBSOSmdKJ6vuDyI041FOrsk00v/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'ED510', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1NKOXc5oi2GO7ZtzwIz_jmXY6ytTs-Bp2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU512', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1luOKjmCNFm8z9vXjJ1ULB35KCO4egwUl/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU515', title: 'Teaching Of Geography', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1jJT9JyFqF1YrC_UwhzKpEIWNVpjEel5m/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU430', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU430', title: '-------------------', category: 'edu', image: '🎓', links: []},
+
   // ENG - English
   { id: 115, code: 'ENG001', title: 'English Course', category: 'eng', image: '📚' },
   { id: 116, code: 'ENG101', title: 'English Course', category: 'eng', image: '📚' },
