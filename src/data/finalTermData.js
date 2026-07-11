@@ -903,7 +903,17 @@ export const finalTermDataPart4 = [
   { id: 191, code: 'PAK302', title: 'Pakistan Studies', category: 'pak', image: '🇵🇰' },
   
   // PHY - Physics
-  { id: 192, code: 'PHY101', title: 'Physics', category: 'phy', image: '⚛️' },
+  { id: 192, code: 'PHY101', title: 'Physics', category: 'phy', image: '⚛️', links: [
+    'https://drive.google.com/file/d/1vgRAsY44UXY1CJa4BkDslvzX6jjNiDul/view?usp=sharing',
+    'https://drive.google.com/file/d/1LTAQgakLtnkQClOX9lCB0TKVQ3csJE4l/view?usp=sharing',
+    'https://drive.google.com/file/d/1fw5CQwCpoe5wSL2hR0i44XYZyJXzAdGa/view?usp=sharing',
+    'https://docs.google.com/document/d/1MTi4YaBlYAylhbw9RNoGuQ-rQMAAtfzaK-HDZOOZovQ/edit?usp=sharing',
+    'https://docs.google.com/document/d/1Q6lMQimP05_vKa6zsY3J47AuV5IwCokuwuGC557t__E/edit?usp=sharing',
+    'https://drive.google.com/file/d/1rueqr17C8pN-zWZHawC-q5fKjfUdp-Mq/view?usp=sharing',
+    'https://drive.google.com/file/d/1jR7v-ybNteHPj8b-uhouAw108f0WyhVb/view?usp=sharing',
+    'https://drive.google.com/file/d/1SqkSfwbEz6SmykkXQzFFVXp624P3hs0Z/view?usp=sharing',
+    'https://drive.google.com/file/d/1RaKzLPnBj96_i5gTEn62ATTB-w1X_sC-/view?usp=sharing'
+  ] },
   { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️' },
   
   // PSC - Political Science
