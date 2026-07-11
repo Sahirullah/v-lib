@@ -911,13 +911,23 @@ export const finalTermDataPart4 = [
   { id: 195, code: 'PSC401', title: 'Political Science Course', category: 'psc', image: '🗳️' },
   
   // PSY - Psychology
-  { id: 196, code: 'PSY101', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 196, code: 'PSY101', title: 'Psychology Course', category: 'psy', image: '🧠',links:[
+    'https://drive.google.com/file/d/1ppkZ0nTbR7ROfDgX6RecqJRfJ0PHk4YH/view?usp=sharing',
+    'https://drive.google.com/file/d/1jvFO5xYnDdzWFlkElMFExIkcJuzGQCvU/view?usp=sharing',
+    'https://drive.google.com/file/d/1u3d-k0_00ND_tJ7k26jEC2Qo_bUoFI_G/view?usp=sharing'
+  ] },
   { id: 197, code: 'PSY401', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 198, code: 'PSY404', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 199, code: 'PSY405', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 199, code: 'PSY406', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 199, code: 'PSY408', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 199, code: 'PSY409', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 200, code: 'PSY502', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 201, code: 'PSY504', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 201, code: 'PSY504', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 201, code: 'PSY504', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 202, code: 'PSY510', title: 'Psychology Course', category: 'psy', image: '🧠' },
+  { id: 202, code: 'PSY511', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 203, code: 'PSY512', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 204, code: 'PSY513', title: 'Psychology Course', category: 'psy', image: '🧠' },
   { id: 205, code: 'PSY514', title: 'Psychology Course', category: 'psy', image: '🧠' },
