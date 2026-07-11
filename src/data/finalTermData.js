@@ -758,8 +758,19 @@ export const finalTermDataPart3 = [
   { id: 132, code: 'HRM628', title: 'HRM Course', category: 'hrm', image: '👩‍💼' },
   
   // ISL - Islamic Studies
-  { id: 133, code: 'ISL201', title: 'Islamic Studies', category: 'isl', image: '📿' },
-  { id: 134, code: 'ISL202', title: 'Islamic Studies', category: 'isl', image: '📿' },
+  { id: 133, code: 'ISL201', title: 'Islamic Studies', category: 'isl', image: '📿',links:[
+    'https://drive.google.com/file/d/1pDs_zuX2d81_7yfwgfb9oC2QpGmfu-w6/view?usp=sharing',
+    'https://drive.google.com/file/d/16qC4ZNQzJtwVaa-BmJTZ955revXGbLG1/view?usp=sharing',
+    'https://drive.google.com/file/d/1tfWubaNkAWiD2-p6rEWsRv_mICPAT1zt/view?usp=sharing',
+    'https://drive.google.com/file/d/10nrjhM4CfiT12rEfHs3JqncCrpj170vS/view?usp=sharing',
+    'https://drive.google.com/file/d/1xIBHP0JmtlIOz8AFfzLTwbc3Bbsk1rcp/view?usp=sharing',
+    'https://drive.google.com/file/d/1cSrhXBwkfrbxqFdgrrqg15Nlac5jyuHu/view?usp=sharing',
+    'https://drive.google.com/file/d/1IOAuF15wF1q2qX4PT38QXUESZbmV1aFT/view?usp=sharing',
+    'https://drive.google.com/file/d/1bpvSHNTxyZcWTvd7XLcv86Kn5byTDlYa/view?usp=sharing',
+    'https://drive.google.com/file/d/1INQFd1WhCImLST7Peb-8tcAxoGQ_RoP2/view?usp=sharing',
+    'https://drive.google.com/file/d/1VWGcpSYJz6OcQRMSFM0-6kbFX04alVmH/view?usp=sharing'
+  ] },
+  { id: 134, code: 'ISL202', title: 'Islamic Studies', category: 'isl', image: '📿', links: [] },
   
   // IT - Information Technology
   { id: 135, code: 'IT430', title: 'E-Commerce', category: 'it', image: '🌐' },
