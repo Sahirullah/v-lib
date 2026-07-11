@@ -638,8 +638,25 @@ export const finalTermDataPart3 = [
   { id: 114, code: 'EDU515', title: 'Teaching Of Geography', category: 'edu', image: '🎓', links: [
     'https://docs.google.com/document/d/1jJT9JyFqF1YrC_UwhzKpEIWNVpjEel5m/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
-  { id: 114, code: 'EDU430', title: '-------------------', category: 'edu', image: '🎓', links: []},
-  { id: 114, code: 'EDU430', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU516', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1IyclStZgcL8ah8-U_Ey6YM_Yi_AV9GSZ/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+  ]},
+  { id: 114, code: 'EDU601', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1wKlSrBFbCn1GWQsZmZgw7d2VzYjzgp5k/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/17D00Z1aSzdhcbs6tLFE3BmPq3iYESQmk/view?usp=sharing',
+    'https://docs.google.com/document/d/1CXmqGOcps8icxvqcKRwBLRpZ4LIf9vUE/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU602', title: '-------------------', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1gXlqaPa0basoTpKDyAZMiXDlp4bs7-BI/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU603', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU604', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU619', title: 'Class Observation Form', category: 'edu', image: '🎓', links: [
+    'https://docs.google.com/document/d/1fOkzsdUZzXgE2n1QMM4CikoL56aUCP4N/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 114, code: 'EDU654', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU705', title: '-------------------', category: 'edu', image: '🎓', links: []},
+  { id: 114, code: 'EDU712', title: '-------------------', category: 'edu', image: '🎓', links: []},
 
   // ENG - English
   { id: 115, code: 'ENG001', title: 'English Course', category: 'eng', image: '📚' },
