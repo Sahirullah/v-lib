@@ -914,7 +914,17 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1SqkSfwbEz6SmykkXQzFFVXp624P3hs0Z/view?usp=sharing',
     'https://drive.google.com/file/d/1RaKzLPnBj96_i5gTEn62ATTB-w1X_sC-/view?usp=sharing'
   ] },
-  { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️' },
+  { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️',links:[
+    'https://drive.google.com/file/d/1QUaf_41b5hFVzZqA4jtsWT3vbe5GJtIg/view?usp=sharing',
+    'https://drive.google.com/file/d/1C0nL-rMc28TVQ34O4twkBSrKPUkUNJFw/view?usp=sharing',
+    'https://drive.google.com/file/d/1Yi32KkaZ2HMqZ5wZAFe5PTPc5F4qHTt9/view?usp=sharing',
+    'https://drive.google.com/file/d/1uS_FImxaolgkzF45a-PctXh7RX-3gqrq/view?usp=sharing',
+    'https://drive.google.com/file/d/1PkpN8Ci7C8iPMFJ368xtPDRgVpRHmbZr/view?usp=sharing',
+    'https://drive.google.com/file/d/1T7GEGB4BKIFF57iXbX2ijNiyUiOzLXD-/view?usp=sharing',
+    'https://drive.google.com/file/d/1xijIGpLiyzk1AnI1pyP-okvGBZbsQ8es/view?usp=sharing',
+    'https://drive.google.com/file/d/1t74g8E_p0Xg1AlCZO2Oeh4iMxwYAHOgJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1d6TdT4qvC3GQ6AhiMxw6qZ7nuDF6D7Ib/view?usp=sharing'
+  ] },
   
   // PSC - Political Science
   { id: 194, code: 'PSC201', title: 'Political Science Course', category: 'psc', image: '🗳️' },
