@@ -892,7 +892,14 @@ export const finalTermDataPart4 = [
   { id: 189, code: 'PAD603', title: 'Governance, Democracy & Society', category: 'pad', image: '📜' },
   
   // PAK - Pakistan Studies
-  { id: 190, code: 'PAK301', title: 'Pakistan Studies', category: 'pak', image: '🇵🇰' },
+  { id: 190, code: 'PAK301', title: 'Pakistan Studies', category: 'pak', image: '🇵🇰', links : [
+    'https://drive.google.com/file/d/10JxZNLQyiVO-rgNoIeLyi9K0ubpCByCY/view?usp=sharing',
+    'https://drive.google.com/file/d/10JxZNLQyiVO-rgNoIeLyi9K0ubpCByCY/view?usp=sharing',
+    'https://docs.google.com/document/d/1I7_QgNSBrZz1HaSJIlBJ983igkiYIast/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1EwkeHJlrWSzNcXMZNCVWysLmZz02CmfZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1hY-MyixDWBtvCvVWluWpMHW-N7RZJsVS/view?usp=sharing',
+    'https://docs.google.com/document/d/1EgnaPztf57k50me810o7qGDtxUeJv2oX/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
   { id: 191, code: 'PAK302', title: 'Pakistan Studies', category: 'pak', image: '🇵🇰' },
   
   // PHY - Physics
