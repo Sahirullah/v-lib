@@ -867,7 +867,11 @@ export const finalTermDataPart4 = [
   { id: 175, code: 'MKT625', title: 'Marketing Course', category: 'mkt', image: '📈' },
   
   // MTH - Mathematics
-  { id: 176, code: 'MTH001', title: 'Mathematics Course', category: 'mth', image: '📐' },
+  { id: 176, code: 'MTH001', title: 'Mathematics Course', category: 'mth', image: '📐',links:[
+    'https://drive.google.com/file/d/1atRyubTepwHKcwz9r7zMUNsShby5ACWp/view?usp=sharing',
+    'https://drive.google.com/file/d/1hfSmo58ctQp_1PmbP3ZB_DSq15MQVXa3/view?usp=sharing',
+    'https://drive.google.com/file/d/1prZ8gZkxhlqoSiiHJGQVSmp4IoH4FJgE/view?usp=sharing'
+  ] },
   { id: 189, code: 'MTH100', title: 'Mathematics Course', category: 'mth', image: '📐',links:[
     'https://drive.google.com/file/d/1VVr_Kq9m01FQhWyRM6reTvVDxli08Xo4/view?usp=sharing',
     'https://drive.google.com/file/d/1uORazKDS6SFkOB4LLS3RAgMT428zXCor/view?usp=sharing',
@@ -875,12 +879,46 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1m66YvU0lckLqd4wgIUH2m1yBAnaxfY0s/view?usp=sharing'
   ]},
 
-  { id: 177, code: 'MTH101', title: 'Calculus and Analytical Geometry', category: 'mth', image: '📐' },
+  { id: 177, code: 'MTH101', title: 'Calculus and Analytical Geometry', category: 'mth', image: '📐', links:[
+    'https://drive.google.com/file/d/1JIcsuEW5KRnNdbrag4LaIF00z9psuEWz/view?usp=sharing',
+    'https://docs.google.com/document/d/1WnNusBBBR_2kugACeJ8ATfOCYgF35xSW/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/158jKEKtewZW0W6JxScDGJxIqXyvQ4Wiu/view?usp=sharing',
+    'https://drive.google.com/file/d/1dxT90Ib6JYoA-wUTgxhuV9NC4fcZMaNJ/view?usp=sharing',
+    'https://drive.google.com/file/d/13Sc9QGncWz60HrqjBgE_ui1HtvA-7eNF/view?usp=sharing',
+    'https://drive.google.com/file/d/1QAs0NCGlPn_JVPZSXZYxcW2wYCAoQCng/view?usp=sharing',
+    'https://drive.google.com/file/d/1KdIxa_nm9LGnE7X18tuWDIOEfbnbNfen/view?usp=sharing',
+    'https://drive.google.com/file/d/1ElTlrVXKRn7QG7dJA_9mIPX91CqHIhAR/view?usp=sharing',
+    'https://drive.google.com/file/d/1YZsthJj8jXlwJytSzH5luXn8WBS3dnR0/view?usp=sharing',
+    'https://drive.google.com/file/d/12gAcONklzAeU-PQ7dr3tp7xqNMy5JryQ/view?usp=sharing'
+  ] },
   { id: 178, code: 'MTH102', title: 'Mathematics Course', category: 'mth', image: '📐' },
+  { id: 178, code: 'MTH201', title: 'Mathematics Course', category: 'mth', image: '📐' },
   { id: 179, code: 'MTH104', title: 'Mathematics Course', category: 'mth', image: '📐' },
-  { id: 180, code: 'MTH202', title: 'Mathematics Course', category: 'mth', image: '📐' },
-  { id: 181, code: 'MTH301', title: 'Mathematics Course', category: 'mth', image: '📐' },
-  { id: 182, code: 'MTH302', title: 'Mathematics Course', category: 'mth', image: '📐' },
+  { id: 180, code: 'MTH202', title: 'Mathematics Course', category: 'mth', image: '📐', links:[
+    'https://drive.google.com/file/d/1rUFvqt4JnftlO3MR2J2vVCpGJpHYZoa7/view?usp=sharing',
+    'https://drive.google.com/file/d/11VbSY4gZpoaASHAK9o-af53UdOnfFwYK/view?usp=sharing',
+  ] },
+  { id: 181, code: 'MTH301', title: 'Mathematics Course', category: 'mth', image: '📐', links:[
+    'https://drive.google.com/file/d/1kYIrtUZZ4rKKrjXnMk6UuZDfKrzFRCwW/view?usp=sharing',
+    'https://drive.google.com/file/d/17Jb-ErCFXp4Sm_vfV19CN5R9nTtxed6h/view?usp=sharing',
+    'https://drive.google.com/file/d/1lKSaskMB2zKFTID_6E7YfOsxqXt5YmgZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1yeSiUuuaNOLdFLCklh62g2TiWzWXXUja/view?usp=sharing'
+  ] },
+  { id: 182, code: 'MTH302', title: 'Mathematics Course', category: 'mth', image: '📐', links:[
+    'https://drive.google.com/file/d/1quxGk7lR-OAY_YvOex-JFKkCf0LDHMe7/view?usp=sharing',
+    'https://drive.google.com/file/d/18L3swQO0L8gwOdVmT4TXwCW-9W13XlxM/view?usp=sharing',
+    'https://drive.google.com/file/d/1FdLdmByNT1HfItwprHu9gRO8c-FzkNsw/view?usp=sharing'
+  ] },
+  { id: 183, code: 'MTH401', title: 'Mathematics Course', category: 'mth', image: '📐', links:[
+    'https://drive.google.com/file/d/1ijg8X1bcV9HpKBegQwZyNbLw08tty1TX/view?usp=sharing',
+    'https://drive.google.com/file/d/1bRZwOOiJRD9o6AhQd-jI4Xt2w7IU5Slp/view?usp=sharing',
+    'https://drive.google.com/file/d/15-ZbdMVjj_r6yRII9kw-oVnWj51E0UZ_/view?usp=sharing',
+    'https://drive.google.com/file/d/1VYAoQnt2xyiEzQMtfRuOeMkSWqf2pm8_/view?usp=sharing',
+    'https://drive.google.com/file/d/1GvACpIApTGQaMFtx5M-OUEz8fb5vi-xw/view?usp=sharing',
+    'https://drive.google.com/file/d/17n9OOmU8as5Jim8cGxb9P16MHbg3jYSM/view?usp=sharing',
+    'https://drive.google.com/file/d/1fDzOCp86PA5LIDhVRxjwK4QGlC40T-Ng/view?usp=sharing',
+    'https://drive.google.com/file/d/1HDmIzc4nZUxIv4VxWWK10w2MT6O2JXRN/view?usp=sharing'
+  ] },
   { id: 183, code: 'MTH641', title: 'Mathematics Course', category: 'mth', image: '📐' },
   { id: 184, code: 'MTH642', title: 'Mathematics Course', category: 'mth', image: '📐' },
   { id: 185, code: 'MTH643', title: 'Mathematics Course', category: 'mth', image: '📐' },
