@@ -98,9 +98,33 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1P9rQQrWoKo3eUQ-g4ITulXooeoEVANL1/view?usp=sharing',
     'https://docs.google.com/document/d/1cSWU9VZ84HcT8iIM-SJW8e7v86un7Xmw/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
-  { id: 15, code: 'BIO204', title: 'Principles of Biochemical Engineering', category: 'bio', image: '🧪',Link:'' },
-  { id: 16, code: 'BIO301', title: 'Essentials of Genetics', category: 'bio', image: '🧪' ,Link:''},
-  { id: 17, code: 'BIO302', title: 'Molecular Biology', category: 'bio', image: '🧪' ,Link:''},
+  { id: 15, code: 'BIO204', title: 'Principles of Biochemical Engineering', category: 'bio', image: '🧪',links:[
+    'https://drive.google.com/file/d/1lFKHcrxsmAIlhMIaD-LAUByfR7R8xbsc/view?usp=sharing',
+    'https://docs.google.com/document/d/1eaeHDz4ZidOuZLEk_cURVs1T6Lt5wOQS/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1KJjN5eHPTFxlxGpC_ErV76h4QX32Ta1m/view?usp=sharing',
+    'https://drive.google.com/file/d/1eJdDEqSntXKL9Tu00ArAHMevZafFFD4q/view?usp=sharing'
+  ] },
+  { id: 16, code: 'BIO301', title: 'Essentials of Genetics', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1up3qgSgedP2g9QlTd8hO6_eOYk-jLjG0/view?usp=sharing',
+    'https://drive.google.com/file/d/1li4-9YgkSCwAHrIbh9_AwlcqrJAhiHjw/view?usp=sharing',
+    'https://drive.google.com/file/d/1MAigI5ny3fbneV3l6ksJKoRsMTzBL-D2/view?usp=sharing',
+    'https://docs.google.com/document/d/1pGsa3BNN-5ZhflOzl6kraOZAOUx_yFO3/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1Db_8kEbdiPC0BkKKlXiVqyH8FUD92zyQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1XRpeHXt-AezS_2rcohKZiWw17ItKrWLW/view?usp=sharing',
+    'https://docs.google.com/document/d/1x4F-xYUsh545Y4Ngq-dDmtRbXqGZPaGI/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/15N7fJMAUpkXEMJQebqDPBVHSKNLzipsf/view?usp=sharing',
+    'https://drive.google.com/file/d/15N7fJMAUpkXEMJQebqDPBVHSKNLzipsf/view?usp=sharing',
+    'https://drive.google.com/file/d/17tbHAlL6HOlwwFUQ-h1tE7D5CXNl_ejb/view?usp=sharing'
+  ]},
+  { id: 17, code: 'BIO302', title: 'Molecular Biology', category: 'bio', image: '🧪' ,links:[
+    'https://docs.google.com/document/d/1iJ6zdYoRQnXtknL69cg_M23QX-N60XGA/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1-ccpnNDC23SEU2oN3KTcGo-Q8i4i59F1/view?usp=sharing',
+    'https://drive.google.com/file/d/1tklL1WYxFQ83ZqaKb1SB1HOwhzg2WJMK/view?usp=sharing',
+    'https://drive.google.com/file/d/1shFme46xYzwVcu0CTwHN9GkSCmqn474J/view?usp=sharing',
+    'https://docs.google.com/document/d/1whMlynILuztxI8VRwpYa7TwLg0a472os/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1W__cErmKaYn9_aZwKl0onB4ZVx6dcHrI/view?usp=sharing',
+    'https://docs.google.com/document/d/1wQhplbCy7CMc7WF9ImP7mCqpOeTILbZM/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
   { id: 18, code: 'BIO303', title: 'Biochemistry II', category: 'bio', image: '🧪' ,Link:''},
   { id: 19, code: 'BIO401', title: 'Biostatistics', category: 'bio', image: '🧪' ,Link:''},
   { id: 20, code: 'BIO502', title: 'Genomics', category: 'bio', image: '🧪' ,Link:''},
