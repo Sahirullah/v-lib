@@ -66,8 +66,23 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1kaAJyeNAyD6HvRBIQMZZ0HaWKdIKM53y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
   { id: 11, code: 'BIO102', title: 'Basic Biology II', category: 'bio', image: '🧪' ,links:[
+    'https://docs.google.com/document/d/1IMpeUzLHiEbrMoZyWcSCXvQBcIUK-sN2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/10NoSM5hyeOqUGqrD73t11ZzHD63VM8C9/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
-  { id: 12, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪' ,Link:''},
+  { id: 12, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1qIybUdWz3jOuwBEcod7Q12bBuTOCCn6C/view?usp=sharing',
+    'https://drive.google.com/file/d/1_qUlv_bKqJ_-lmtqbZ1DRFfbJgfWgj4q/view?usp=sharing',
+    'https://docs.google.com/document/d/1xCO3RVOjj6RCMm14SpQeanGUWLcNqD-E/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1SLNrM24LyzekBLMoLNMfCjVoLSbhdNry/view?usp=sharing',
+    'https://docs.google.com/document/d/1MeTZB1RawaHHzUewQ5OyQWIkXiZwPl0D/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1vyR2VH8sGDoqIaoeiL58Fw-WUqLJIcER/view?usp=sharing',
+    'https://drive.google.com/file/d/1e9UvVAD-yC2o-AfMkkw2QmtYh88m2em8/view?usp=sharing',
+    'https://drive.google.com/file/d/1bq3h-34uOQaIljFYYBy2xBTTKKsQs9_v/view?usp=sharing',
+    'https://drive.google.com/file/d/1ymBHIG8dmpydj4R0cd6ae83Boz9p3c0T/view?usp=sharing',
+    'https://drive.google.com/file/d/19ZsO3vSEIFotW3iQz5jbWnXNTl-Nms7t/view?usp=sharing',
+    'https://drive.google.com/file/d/18KMBuxL47LVSO0PEgLFDoE3jKrhbjrhI/view?usp=sharing',
+    'https://drive.google.com/file/d/1AaOhNEhFieTX34D4OAIRW1NCpFCTqScF/view?usp=sharing'
+  ]},
   { id: 13, code: 'BIO202', title: 'Biochemistry I', category: 'bio', image: '🧪' ,Link:''},
   { id: 14, code: 'BIO203', title: 'Methods in Molecular Biology', category: 'bio', image: '🧪' ,Link:''},
   { id: 15, code: 'BIO204', title: 'Principles of Biochemical Engineering', category: 'bio', image: '🧪',Link:'' },
