@@ -82,7 +82,10 @@ export const finalTermData = [
   { id: 26, code: 'BIO734', title: 'Advance Cell Biology', category: 'bio', image: '🧪' ,Link:''},
   
   // BNK - Banking
-  { id: 27, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼' ,Link:''},
+  { id: 27, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼' ,links:[
+    'https://drive.google.com/file/d/1x45CHnrvVHDJwE67vncd7xq3iHw0AC3O/view?usp=sharing',
+    'https://drive.google.com/file/d/1-nIQXbgoAh93Wxm8Ptx4fZs6oBwSMijh/view?usp=sharing'
+  ]},
   { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼' ,Link:''},
   { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' ,Link:''},
   { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,Link:''},
