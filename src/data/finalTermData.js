@@ -250,7 +250,8 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1D5iBqKBQjr1fU9mrVaz6WHx6hUPZwa88/view?usp=sharing',
     'https://drive.google.com/file/d/1wwBZ4ZfO0p4jnXl7xIvgl4H7Lww8LQZ2/view?usp=sharing',
     'https://drive.google.com/file/d/1DFXoPo029CA99CiSTHLZ_m9BrcXsA-Xr/view?usp=sharing',
-    'https://drive.google.com/file/d/19YVOBbb4w59TENmHz0ZYt_UD8Nwwyp_i/view?usp=sharing'
+    'https://drive.google.com/file/d/19YVOBbb4w59TENmHz0ZYt_UD8Nwwyp_i/view?usp=sharing',
+    'https://docs.google.com/document/d/1NHo2-cUBQvi4F5XN3oQcUpVwIzqWbUpz/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
   { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️',links:[
     'https://drive.google.com/file/d/1wGwtlnGShdARiwbAtUDXhEdyUZ3kZEt-/view?usp=sharing'
@@ -900,11 +901,33 @@ export const finalTermDataPart3 = [
   { id: 134, code: 'ISL202', title: 'Islamic Studies', category: 'isl', image: '📿', links: [] },
   
   // IT - Information Technology
-  { id: 135, code: 'IT430', title: 'E-Commerce', category: 'it', image: '🌐' },
+  { id: 135, code: 'IT430', title: 'E-Commerce', category: 'it', image: '🌐', links:[
+    'https://drive.google.com/file/d/1UnVKDdkP-7UAc8C9DFVq2mYpRgozB-GA/view?usp=sharing',
+    'https://drive.google.com/file/d/1RNNSd3fbga8I13pvRKhVRHxZAWQBinox/view?usp=sharing',
+    'https://drive.google.com/file/d/1xr-pthhRRYzrS0aZczp5ZOZkqJv2STiN/view?usp=sharing'
+  ] },
   
   // MCM - Mass Communication
-  { id: 136, code: 'MCM101', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 137, code: 'MCM301', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
+  { id: 136, code: 'MCM101', title: 'Mass Communication Course', category: 'mcm', image: '📰', links:[
+    'https://drive.google.com/file/d/1hzy-ZUSJKaixd88V31MCQmE_G2pr8qa_/view?usp=sharing',
+    'https://drive.google.com/file/d/1RN9uV9YrhIjsZVm8koL6BK1MtS_yr_yS/view?usp=sharing',
+    'https://drive.google.com/file/d/1ygXdcg4ubm1X1uoAHLF1oy6foVkUSSct/view?usp=sharing',
+    'https://drive.google.com/file/d/12Nj03148jRU6WjxhrjdOxHctVb2SxTP3/view?usp=sharing'
+  ] },
+  { id: 137, code: 'MCM301', title: 'Mass Communication Course', category: 'mcm', image: '📰', links:[
+    'https://drive.google.com/file/d/1djd0iiG5FEyvUywap3aHgjaIJXL9dFBj/view?usp=sharing',
+    'https://drive.google.com/file/d/1XtMTD7b93jyP13KYvLilZLF5avTHlYMQ/view?usp=sharing',
+    'https://drive.google.com/file/d/1gD70mVmMgkqa_WLaKOz3qdqvegx5qE17/view?usp=sharing',
+    'https://drive.google.com/file/d/1zLVsTLU-cIgtofveqaF-F7KUjFuS-xDa/view?usp=sharing',
+    'https://drive.google.com/file/d/1uBgex-EB3EfsFfjNNsBF3hf__zO4jrMg/view?usp=sharing',
+    'https://drive.google.com/file/d/1DrJ9lLh0GdXXxlZ3y_j9m1G2bznzzlu-/view?usp=sharing',
+    'https://drive.google.com/file/d/1u14GIkBAe_cHWZXGt_VBoGo729i_9Z9H/view?usp=sharing',
+    'https://drive.google.com/file/d/1__FXyfX0gzPYZW2MYtCNa_67H5zXCT7v/view?usp=sharing',
+    'https://drive.google.com/file/d/1WAePrU-YtVf9UsTfHFExcUwP-9gNVPY0/view?usp=sharing',
+    'https://drive.google.com/file/d/1pJZezAVpTL5NkIN2aj45ygc5jcepNeOC/view?usp=sharing',
+    'https://drive.google.com/file/d/1oVfgxonFaO69JhWHC-9UksJDB18yefvt/view?usp=sharing',
+    'https://drive.google.com/file/d/1MA56cRJr8wOq7-bcI53p-k5xj_WEupgS/view?usp=sharing'
+  ] },
   { id: 138, code: 'MCM304', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
   { id: 139, code: 'MCM310', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
   { id: 140, code: 'MCM311', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
