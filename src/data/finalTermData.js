@@ -86,9 +86,20 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1x45CHnrvVHDJwE67vncd7xq3iHw0AC3O/view?usp=sharing',
     'https://drive.google.com/file/d/1-nIQXbgoAh93Wxm8Ptx4fZs6oBwSMijh/view?usp=sharing'
   ]},
-  { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼' ,Link:''},
-  { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' ,Link:''},
-  { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,Link:''},
+  { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼' ,links:[
+    'https://docs.google.com/document/d/1bgmLt_ydqejLQJN_YzJa1SaohPQNiEPl/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1bGuWD2OH_LdxrJ4sBZH3e84hgPZhCdEu/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1BSTUoBvOXP_aXiAu8Ct4DOBVc2ds_M1g/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1PrePiIb2Y4JjdjzUE6R4iSR_8SIQLPzG/view?usp=sharing',
+    'https://drive.google.com/file/d/1COdeN_rTLeL0AJ5j5gYf3OEyUK55UaCc/view?usp=sharing'
+  ]},
+  { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' ,links:[
+    'https://docs.google.com/document/d/1bgYNC-kbJX-E_A0ADMH6ZlX57MvOekf2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
+  { id: 30, code: 'BNK611', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
+  { id: 30, code: 'BNK612', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
+  { id: 30, code: 'BNK613', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
   
   // BT - Biotechnology
   { id: 31, code: 'BT101', title: 'Ecology, Biodiversity & Evolution-I', category: 'bt', image: '🧬',links: [
