@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, Links } from "react-router-dom";
 
 export const finalTermData = [
   // ACC - Accounting
@@ -130,8 +130,23 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1vYhZki3iG3dJFBg1mjkqxjPzKkW-zcTI/view?usp=sharing'
   ]},
   { id: 19, code: 'BIO401', title: 'Biostatistics', category: 'bio', image: '🧪' ,Link:''},
-  { id: 20, code: 'BIO502', title: 'Genomics', category: 'bio', image: '🧪' ,Link:''},
-  { id: 21, code: 'BIO503', title: 'Biological Physics', category: 'bio', image: '🧪' ,Link:''},
+  { id: 20, code: 'BIO502', title: 'Genomics', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1KMHWW3P4BadPCiCWcCgXHyPVbBgx6IdZ/view?usp=sharing'
+  ]},
+  { id: 21, code: 'BIO503', title: 'Biological Physics', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1PpQPPbxRFM60MjHXx1dKA2gfanLYbVHB/view?usp=sharing'
+  ]},
+  { id: 22, code: 'BIO505', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1fhDYz-EXOLCPcjDXYVoEIuuI6VmcDeGG/view?usp=sharing'
+  ]},
+  { id: 22, code: 'BIO731', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪' ,links:[
+    'https://docs.google.com/document/d/1rCjjAOkz870xnDz8wl_VW8SngaKtYMiA/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 22, code: 'BIO732', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪' ,links:[
+    'https://docs.google.com/document/d/1afNGUluvwRAwF8qN1QjPDSF97WQhNl8b/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 22, code: 'BIO733', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪' ,links:[]},
+  { id: 22, code: 'BIO734', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪' ,links:[]},
   { id: 22, code: 'BIO504T', title: 'Biochemistry I (Theory)', category: 'bio', image: '🧪' ,Link:''},
   { id: 23, code: 'BIO505T', title: 'Essentials of Genetics (Theory)', category: 'bio', image: '🧪' ,Link:''},
   { id: 24, code: 'BIO506T', title: 'Biochemistry II (Theory)', category: 'bio', image: '🧪' ,Link:''},
