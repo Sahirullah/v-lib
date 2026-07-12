@@ -62,6 +62,8 @@ export const finalTermData = [
 
   // BIO - Biology
   { id: 10, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪' ,links:[
+    'https://docs.google.com/document/d/13deeCeqg1zaQPchMP7PUtDvYp6Gu4uxY/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1kaAJyeNAyD6HvRBIQMZZ0HaWKdIKM53y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
   { id: 11, code: 'BIO102', title: 'Basic Biology II', category: 'bio', image: '🧪' ,links:[
   ]},
