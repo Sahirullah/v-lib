@@ -928,16 +928,44 @@ export const finalTermDataPart3 = [
     'https://drive.google.com/file/d/1oVfgxonFaO69JhWHC-9UksJDB18yefvt/view?usp=sharing',
     'https://drive.google.com/file/d/1MA56cRJr8wOq7-bcI53p-k5xj_WEupgS/view?usp=sharing'
   ] },
-  { id: 138, code: 'MCM304', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
+  { id: 138, code: 'MCM304', title: 'Mass Communication Course', category: 'mcm', image: '📰', links:[
+    'https://docs.google.com/document/d/1kTss8WkIJQuxZMMnk72vXgnDfJYQwini/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1Gne6J-ARDGNtI4_39m3SBKjf9EtH8IvV/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1m09NY3yLBppZFcOpV_YwZOTA8MRf49gi/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
   { id: 139, code: 'MCM310', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 140, code: 'MCM311', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
+  { id: 140, code: 'MCM311', title: 'Mass Communication Course', category: 'mcm', image: '📰', links:[
+    'https://docs.google.com/document/d/1iZ8Md5mA4l3ValRJosQPyvT3pRcc-G5J/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
   { id: 141, code: 'MCM401', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
   { id: 142, code: 'MCM404', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 143, code: 'MCM411', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 144, code: 'MCM431', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 145, code: 'MCM511', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 146, code: 'MCM516', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
-  { id: 147, code: 'MCM517', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
+  { id: 143, code: 'MCM411', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/1z-Si8-H8hHyEL1P11HL-RwMWI67zgCNo/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/10BTiTOIb34mNKOoVhBEzS3r4mMf3aMt2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1j2AIiE7QEOiieTxXO2HZmJHczJ-Un8t0/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 144, code: 'MCM431', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/1hEbipyz3QUmPctapVCv4qPkMYBVqQR7c/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 145, code: 'MCM501', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[] },
+  { id: 145, code: 'MCM511', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/1wmGjew8e-jQdVr3_OzEP6hM3Mufoq6xZ/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1ovsWRMAcpk9nJvoTS9P8YgXoHf0iweI_/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 145, code: 'MCM514', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/1B0nXzIKnJf_hXy-R2bYVZah8qxEyU91Z/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 146, code: 'MCM515', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/1rZh0pmaI1_6sVmPWHGr9A_1auCEVpw1e/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/1I1Ixz9P35z8E9rqrd3A4ox0vnQH4uwW8/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
+    'https://docs.google.com/document/d/13e5PNw2wsXiCnNZKOCU3RXy-DW7XfEth/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 146, code: 'MCM516', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/1vgg9F5vaZfX72M8UQZU1SZ681C9F6tmQ/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
+  { id: 147, code: 'MCM517', title: 'Mass Communication Course', category: 'mcm', image: '📰',links:[
+    'https://docs.google.com/document/d/12CTF3OKUieNLUEj9hDbYnj5yMGNhmPKc/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ] },
   { id: 148, code: 'MCM520', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
   { id: 149, code: 'MCM531', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
   { id: 150, code: 'MCM601', title: 'Mass Communication Course', category: 'mcm', image: '📰' },
