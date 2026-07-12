@@ -986,7 +986,17 @@ export const finalTermDataPart3 = [
 
 export const finalTermDataPart4 = [
   // MGT - Business & Management
-  { id: 162, code: 'MGT101', title: 'Business & Management Course', category: 'mgt', image: '📊' },
+  { id: 162, code: 'MGT101', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1KQ0EAND4GX6lPOTW7lEl_sKphtZVLiMD/view?usp=sharing',
+    'https://drive.google.com/file/d/17V_oM36cJz5psMH0GAHmyqrCQD12FmNP/view?usp=sharing',
+    'https://drive.google.com/file/d/1JjZ9YruCRBI97IPFpazAthDZKl8XxUR4/view?usp=sharing',
+    'https://drive.google.com/file/d/1b9k_tXyY9kjDsxChjlMcBwiYu_QXc-TX/view?usp=sharing',
+    'https://drive.google.com/file/d/1TEK_tGPHm5bLVjx1O3Iq5vouD1-d_Rlk/view?usp=sharing',
+    'https://drive.google.com/file/d/1JKSPSRgbSjWrFuofxVpqS0hFBDRslw9x/view?usp=sharing',
+    'https://drive.google.com/file/d/1rA4dqBlYpiK5hrLSeG46FEQ8i6-myrA4/view?usp=sharing',
+    'https://drive.google.com/file/d/1mTC8QLwIZuvUO1g1oiKS8eqfCCDWPbTP/view?usp=sharing',
+    'https://drive.google.com/file/d/1COmMiS9YPRJ1YP0KFJxHt9_F1CDRFTx4/view?usp=sharing'
+  ] },
   { id: 163, code: 'MGT111', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   { id: 164, code: 'MGT201', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   { id: 165, code: 'MGT211', title: 'Business & Management Course', category: 'mgt', image: '📊' },
