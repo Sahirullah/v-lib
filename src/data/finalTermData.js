@@ -1099,7 +1099,23 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1fpZE1uU993J2TXYoNwl_OvAdzuW0Q05m/view?usp=sharing',
     'https://drive.google.com/file/d/1BntoAISXU217cxMDp9bnMEe2u-Xc23El/view?usp=sharing'
   ]},
-  { id: 168, code: 'MGT402', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1_XbYEMlVosjsv_t8Y-f-aFYhQHE_HJfW/view?usp=sharing',
+    'https://drive.google.com/file/d/1Gf-7g-0PkNLUNLZx9ESAcN8HgSjy3SLX/view?usp=sharing',
+    'https://drive.google.com/file/d/1TJGweTecYf2aus8w_LTmA3GTFxODvWqh/view?usp=sharing',
+    'https://drive.google.com/file/d/19NK3VoYJIAHR8rUljtidMTBvBe-HbJSC/view?usp=sharing',
+    'https://drive.google.com/file/d/1-odGotxDRbW5b2DQWEJo3x7IL0RyF1pZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1sObJr4TNP79A_bX4PkOUHZOaLzijda4H/view?usp=sharing',
+    'https://drive.google.com/file/d/159ZHEazRzvjRTLBNdlCXN-_eu-wlVY5S/view?usp=sharing',
+    'https://drive.google.com/file/d/1OacLlVNehb4lb3s46jq2RLdB5WzynHHq/view?usp=sharing',
+    'https://drive.google.com/file/d/1182a4f1gNqanDbSO8wrwV7wXVp3ecn-3/view?usp=sharing',
+    'https://drive.google.com/file/d/15i61dX--wy6d6CxSCWmlTW30xBer9VYX/view?usp=sharing'
+  ]},
+  { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   
   // MKT - Marketing
   { id: 169, code: 'MKT501', title: 'Marketing Course', category: 'mkt', image: '📈' },
