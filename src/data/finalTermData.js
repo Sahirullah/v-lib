@@ -1209,12 +1209,41 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1FzYpFGI_UKYNJMa6AQyhzb9T19M_qBZE/view?usp=sharing',
     'https://drive.google.com/file/d/1XeVzIScOJPQNVM68hVlw3Q_fD2slQw-4/view?usp=sharing'
   ] },
+  { id: 170, code: 'MKT529', title: 'Marketing Course', category: 'mkt', image: '📈' },
   { id: 170, code: 'MKT530', title: 'Marketing Course', category: 'mkt', image: '📈' },
-  { id: 171, code: 'MKT610', title: 'Marketing Course', category: 'mkt', image: '📈' },
-  { id: 172, code: 'MKT611', title: 'Marketing Course', category: 'mkt', image: '📈' },
-  { id: 173, code: 'MKT621', title: 'Marketing Course', category: 'mkt', image: '📈' },
-  { id: 174, code: 'MKT624', title: 'Marketing Course', category: 'mkt', image: '📈' },
-  { id: 175, code: 'MKT625', title: 'Marketing Course', category: 'mkt', image: '📈' },
+  { id: 171, code: 'MKT603', title: 'Marketing Course', category: 'mkt', image: '📈' , links:[]},
+  { id: 171, code: 'MKT610', title: 'Marketing Course', category: 'mkt', image: '📈' , links:[
+    'https://drive.google.com/file/d/1DzAjsb9C_RcriQ8xmVv0qv4UtWNzbvPf/view?usp=sharing'
+  ]},
+  { id: 172, code: 'MKT611', title: 'Marketing Course', category: 'mkt', image: '📈', links:[
+
+  ] },
+  { id: 173, code: 'MKT621', title: 'Marketing Course', category: 'mkt', image: '📈',links:[
+    'https://drive.google.com/file/d/1taU7UNIs1Umv7whn9woUsi3Y_ayUSUPa/view?usp=sharing'
+  ] },
+  { id: 174, code: 'MKT624', title: 'Marketing Course', category: 'mkt', image: '📈', links:[
+    'https://drive.google.com/file/d/1ffbOMFcAo5L6qUeBmKEUvW64iSYn0C1Z/view?usp=sharing'
+  ] },
+  { id: 175, code: 'MKT625', title: 'Marketing Course', category: 'mkt', image: '📈', links :[]},
+  { id: 175, code: 'MKT626', title: 'Marketing Course', category: 'mkt', image: '📈', links :[]},
+  { id: 175, code: 'MKT627', title: 'Marketing Course', category: 'mkt', image: '📈', links :[]},
+  { id: 175, code: 'MKT630', title: 'Marketing Course', category: 'mkt', image: '📈', links :[
+    'https://drive.google.com/file/d/1sT7fwB2kznIP1gV1fMvVJxiU3_K718xg/view?usp=sharing',
+    'https://drive.google.com/file/d/1GcZJA8OrY5vYqcsjehnFPsJcEo02KzR_/view?usp=sharing',
+    'https://drive.google.com/file/d/1RxZy7PVXJGG_Q6vXNT5siMShdkjjDzCM/view?usp=sharing'
+  ]},
+  { id: 175, code: 'MKT703', title: 'Marketing Course', category: 'mkt', image: '📈', links :[
+    'https://drive.google.com/file/d/1GeaPj9v_hppQTq580r_Fkr_HdGdG7i71/view?usp=sharing',
+    'https://drive.google.com/file/d/1YobMQVoqrO8GvGrZj4EcZRd2ihBI4jrs/view?usp=sharing',
+    'https://drive.google.com/file/d/1oTdWZJ5PJwhCE8I0Q12OnH_EydLP29cx/view?usp=sharing'
+  ]},
+  { id: 175, code: 'MKT711', title: 'Marketing Course', category: 'mkt', image: '📈', links :[
+    'https://drive.google.com/file/d/1igoLVt3jPvWsDSqWJ6tYCA1e3ywV-la8/view?usp=sharing',
+    'https://drive.google.com/file/d/1zIRwTplaqhcsxyFdBXRwx1_oK-MA0e_t/view?usp=sharing',
+    'https://drive.google.com/file/d/1DPNK6T9LTXhsYHHmj00p09fsQqLb2PGh/view?usp=sharing',
+    'https://drive.google.com/file/d/15R37wBpPubtyeeuME3NoZCDs9HPQzk_8/view?usp=sharing',
+    'https://drive.google.com/file/d/197YJpb3aYKSvq9t-B2QRzIhT-3XHMYSR/view?usp=sharing'
+  ]},
   
   // MTH - Mathematics
   { id: 176, code: 'MTH001', title: 'Mathematics Course', category: 'mth', image: '📐',links:[
