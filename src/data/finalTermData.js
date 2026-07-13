@@ -1198,7 +1198,17 @@ export const finalTermDataPart4 = [
   { id: 168, code: 'MGT705', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   
   // MKT - Marketing
-  { id: 169, code: 'MKT501', title: 'Marketing Course', category: 'mkt', image: '📈' },
+  { id: 169, code: 'MKT501', title: 'Marketing Course', category: 'mkt', image: '📈',links:[
+    'https://drive.google.com/file/d/1Y9g8cK7dSdaPDk7y6LY5ROib7b2JYvvk/view?usp=sharing',
+    'https://drive.google.com/file/d/1nPdeIFFDKvIvHaYJULX77rQjE6CRmj_b/view?usp=sharing',
+    'https://drive.google.com/file/d/1O7uu3JCS4sbPFdLeSb5dAQDHb1ZCJE9I/view?usp=sharing',
+    'https://drive.google.com/file/d/11bUIWggvWogLH0bma7VATENeLYvAx_rq/view?usp=sharing',
+    'https://drive.google.com/file/d/1ud4s62M7oE3Cn_AVXwgcBrFPqRHgRVdG/view?usp=sharing',
+    'https://drive.google.com/file/d/1nNsX-JYTgdv_zdHuWqNJCQcx0dUh2nFr/view?usp=sharing',
+    'https://drive.google.com/file/d/1V4uCA-OctldbtdSmlC6n_YXJZzOPrM4G/view?usp=sharing',
+    'https://drive.google.com/file/d/1FzYpFGI_UKYNJMa6AQyhzb9T19M_qBZE/view?usp=sharing',
+    'https://drive.google.com/file/d/1XeVzIScOJPQNVM68hVlw3Q_fD2slQw-4/view?usp=sharing'
+  ] },
   { id: 170, code: 'MKT530', title: 'Marketing Course', category: 'mkt', image: '📈' },
   { id: 171, code: 'MKT610', title: 'Marketing Course', category: 'mkt', image: '📈' },
   { id: 172, code: 'MKT611', title: 'Marketing Course', category: 'mkt', image: '📈' },
