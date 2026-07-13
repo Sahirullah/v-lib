@@ -1193,8 +1193,9 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/19rV9dfjXoXRfVGR48BFm3IYA4H71tET5/view?usp=sharing',
     'https://drive.google.com/file/d/1BqDDW-TxdynzFflFlTNF5ddDbxoffN6N/view?usp=sharing'
   ]},
-  { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
-  { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT621', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT703', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT705', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   
   // MKT - Marketing
   { id: 169, code: 'MKT501', title: 'Marketing Course', category: 'mkt', image: '📈' },
