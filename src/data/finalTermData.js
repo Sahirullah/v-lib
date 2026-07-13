@@ -998,7 +998,16 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1COmMiS9YPRJ1YP0KFJxHt9_F1CDRFTx4/view?usp=sharing'
   ] },
   { id: 163, code: 'MGT111', title: 'Business & Management Course', category: 'mgt', image: '📊' },
-  { id: 164, code: 'MGT201', title: 'Business & Management Course', category: 'mgt', image: '📊' },
+  { id: 164, code: 'MGT201', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1fhbcsU8zu6JhwF6JwiTH9vMQ3L3wlpbZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1rJjGFnTYwGNmLU0R4dZ57vcUFwqyjUuQ/view?usp=sharing',
+    'https://drive.google.com/file/d/12YiokVT6wzloBPA8YyJRZi0eVpXFDxFr/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZCm__2A-Go1r84Unv5X_xMUEXxVE0yTD/view?usp=sharing',
+    'https://drive.google.com/file/d/1OllAaRWMtOX24UsNnlajCIVRlISCNrcI/view?usp=sharing',
+    'https://drive.google.com/file/d/150b1_bEJeVLrumrtwMv6Uc885ppCIz5u/view?usp=sharing',
+    'https://drive.google.com/file/d/1OQr8Tnfw6Ley5fRCPMDEn7gs1dUbEr6B/view?usp=sharing',
+    'https://drive.google.com/file/d/1IWOZ9rCmZ2Yi9HVqc7PV92JoEN9D5Rhw/view?usp=sharing'
+  ] },
   { id: 165, code: 'MGT211', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   { id: 166, code: 'MGT301', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   { id: 167, code: 'MGT401', title: 'Business & Management Course', category: 'mgt', image: '📊' },
