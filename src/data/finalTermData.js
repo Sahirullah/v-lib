@@ -1030,7 +1030,16 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1a3jt6RgwvENWkpuTwe5MrqNG3sxsLBVH/view?usp=sharing',
     'https://drive.google.com/file/d/13c7M9WUXB2JZTtpxeRyntVlqgRcZ5BpJ/view?usp=sharing'
   ] },
-  { id: 167, code: 'MGT401', title: 'Business & Management Course', category: 'mgt', image: '📊' },
+  { id: 167, code: 'MGT401', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1MHFXF9Kar7_KV6TsK9847qUt_jDNxuoe/view?usp=sharing',
+    'https://drive.google.com/file/d/1I2zMJLNH4gM0lKJF5YnlPS3mp-iAv2Z6/view?usp=sharing',
+    'https://drive.google.com/file/d/1Co3U0_HOxAEhu8wvDV5TDMcbjiIMAJoY/view?usp=sharing',
+    'https://drive.google.com/file/d/1bkSa9KNqvFCToQlwxAJPPM7DKF0wcQGW/view?usp=sharing',
+    'https://drive.google.com/file/d/1006DpkryJ7-Fx0tzR2m3AJTb_WTsL5rj/view?usp=sharing',
+    'https://drive.google.com/file/d/1kLKnuC1YsEQdASuz0q5I6iaj6BXQC1zL/view?usp=sharing',
+    'https://drive.google.com/file/d/1kLKnuC1YsEQdASuz0q5I6iaj6BXQC1zL/view?usp=sharing',
+    'https://drive.google.com/file/d/1X0TkvlXsrt-w1cT4S9OWV3RSzG200N1W/view?usp=sharing'
+  ] },
   { id: 168, code: 'MGT402', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   
   // MKT - Marketing
