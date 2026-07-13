@@ -1159,6 +1159,26 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/10fIvKDbkhyTSSHbJzdZ4RwAaj5psELVL/view?usp=sharing',
     'https://drive.google.com/file/d/1W4tbEqGvD8qgaTX5GmCM0t0CmK10HL0c/view?usp=sharing'
   ]},
+  { id: 168, code: 'MGT604', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://docs.google.com/document/d/1fmUqel_tyWCfryFEeb-yLrunlh1-cCG6/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  ]},
+  { id: 168, code: 'MGT610', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1OfXrDSxADhKEIHmlU4ZIviOMJVDIAHGs/view?usp=sharing',
+    'https://drive.google.com/file/d/1WuS7XZdptRTYAMMWgDM-rBRwhA6qM6TU/view?usp=sharing',
+    'https://drive.google.com/file/d/1KzUld9T4SPxJG2Eo7_pZLy905fHo-wTl/view?usp=sharing',
+    'https://drive.google.com/file/d/1IFnSnLkt_B74ORtPEqL-A3Nqo3LXIx-7/view?usp=sharing',
+    'https://drive.google.com/file/d/1H-V_Ao7Ekrz0V6TdwG3hbDobdtGhD0NV/view?usp=sharing'
+  ]},
+  { id: 168, code: 'MGT611', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1vtcQxkgwLbF0uE65PcJofHkwIgP9351T/view?usp=sharing',
+    'https://drive.google.com/file/d/1Lg6LqRmNMXnYJWvnz37J2rwsGvsb5eRv/view?usp=sharing',
+    'https://drive.google.com/file/d/15OIo7pvoMUTzVgE6JIIKLRE1SiQSUdD9/view?usp=sharing',
+    'https://drive.google.com/file/d/1mZ2dlP83-WB96BCSEsJIVfuFkM4--K8i/view?usp=sharing',
+    'https://drive.google.com/file/d/18ZPS9i-frQLRbuwIYVoN87JdMMTVRHfK/view?usp=sharing',
+    'https://drive.google.com/file/d/1YkTz9RZk-zBhadhYtPsjq6OrKZhe9tcR/view?usp=sharing'
+  ]},
+  { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   
