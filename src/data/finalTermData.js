@@ -1177,8 +1177,22 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/18ZPS9i-frQLRbuwIYVoN87JdMMTVRHfK/view?usp=sharing',
     'https://drive.google.com/file/d/1YkTz9RZk-zBhadhYtPsjq6OrKZhe9tcR/view?usp=sharing'
   ]},
-  { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
-  { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT612', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
+  { id: 168, code: 'MGT613', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/149pgIYOaL79_jAevMiQCAWlyFSS8fYkc/view?usp=sharing',
+    'https://drive.google.com/file/d/1uQ42YS-EbYBBel4yA3Sg2P2PX2eip7xF/view?usp=sharing',
+    'https://drive.google.com/file/d/1bq_-MOXGAi9gnRYqVs1maTAwjBPWzjmy/view?usp=sharing',
+    'https://drive.google.com/file/d/1_etKUiMyYkPXRH9fLg3tm87pGOx_f7qY/view?usp=sharing',
+    'https://drive.google.com/file/d/1nbgtYE-GDpOcWbjKwlj0eW9Dv0JQaM4q/view?usp=sharing',
+    'https://drive.google.com/file/d/1nbgtYE-GDpOcWbjKwlj0eW9Dv0JQaM4q/view?usp=sharing',
+    'https://drive.google.com/file/d/1Zkh8ScLbhEC5Y2Zezm-NkbAAROnJ9Dvb/view?usp=sharing',
+    'https://drive.google.com/file/d/1vhcNgz7TQbavQgglTQCYHi9WQG7ZZTIE/view?usp=sharing',
+    'https://drive.google.com/file/d/1qwnjZr5b8jFBqvVIvt-7dviov7nkwZD6/view?usp=sharing',
+    'https://drive.google.com/file/d/1sEoDYWqvUiQNjU6ohOiUh-wvDKlQ7T3m/view?usp=sharing',
+    'https://drive.google.com/file/d/1_PbMJYcxCGDTyeHNqlArNWdFp9J-YOUa/view?usp=sharing',
+    'https://drive.google.com/file/d/19rV9dfjXoXRfVGR48BFm3IYA4H71tET5/view?usp=sharing',
+    'https://drive.google.com/file/d/1BqDDW-TxdynzFflFlTNF5ddDbxoffN6N/view?usp=sharing'
+  ]},
   { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   { id: 168, code: 'MGT601', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[]},
   
