@@ -1016,7 +1016,20 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/11_02llx7vglecqmfC9gwqWL9Vro96P-h/view?usp=sharing',
     'https://drive.google.com/file/d/1da0--R1FhWqjVQk6nWlk7ezptUZYCpGk/view?usp=sharing'
   ] },
-  { id: 166, code: 'MGT301', title: 'Business & Management Course', category: 'mgt', image: '📊' },
+  { id: 166, code: 'MGT301', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
+    'https://drive.google.com/file/d/1gyCyATKYD4CQW6jUYzIlBCH-03raVB6o/view?usp=sharing',
+    'https://drive.google.com/file/d/1mF3TcMV8TUrNuw-O11gCgxUNhlGwpd4e/view?usp=sharing',
+    'https://drive.google.com/file/d/1RFkjONAqqsqykj1h2EdpQ1kCjTL0MJDA/view?usp=sharing',
+    'https://drive.google.com/file/d/12ZCt3YSqQJHO-eMqQo4a6cBJ8z9JHAzh/view?usp=sharing',
+    'https://drive.google.com/file/d/1B4OOKU8urdjQ7dH-vQvdh_GXR4h3P-Qx/view?usp=sharing',
+    'https://drive.google.com/file/d/1IMpXY6bWJ8fFOmxi33qty-bX3lNbngxk/view?usp=sharing',
+    'https://drive.google.com/file/d/1iU73jKWoNED0QEeplSYGM6KXnG6TDPE_/view?usp=sharing',
+    'https://drive.google.com/file/d/1FgZ1-1--4pFz4D7_C_mAu5kTl53D7Y7s/view?usp=sharing',
+    'https://drive.google.com/file/d/1BjYnq3GkfhZAZOzTJ6mil7n4LHN_Ek0R/view?usp=sharing',
+    'https://drive.google.com/file/d/10A3ShYSxRDvJ24lkapzL8ydQa1K5fcAi/view?usp=sharing',
+    'https://drive.google.com/file/d/1a3jt6RgwvENWkpuTwe5MrqNG3sxsLBVH/view?usp=sharing',
+    'https://drive.google.com/file/d/13c7M9WUXB2JZTtpxeRyntVlqgRcZ5BpJ/view?usp=sharing'
+  ] },
   { id: 167, code: 'MGT401', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   { id: 168, code: 'MGT402', title: 'Business & Management Course', category: 'mgt', image: '📊' },
   
