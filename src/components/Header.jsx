@@ -527,7 +527,6 @@ const Header = () => {
                 <Link to="/school-base" onClick={handleDropdownClose}>School Base</Link>
                 <a href="#college-base" onClick={handleDropdownClose}>College Base</a>
                 <Link to="/etea-hec" onClick={handleDropdownClose}>ETEA/HEC</Link>
-                <a href="#english" onClick={handleDropdownClose}>English</a>
                 <a href="#job-guide" onClick={handleDropdownClose}>Job Guide</a>
                 <Link to="/all-books" onClick={handleDropdownClose}>All Books</Link>
               </div>

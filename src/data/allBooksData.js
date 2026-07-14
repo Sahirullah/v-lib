@@ -1,13 +1,13 @@
 export const allBooksData = [
-  // Mathematics Books
-  { id: 1, code: 'MTH001', title: 'Calculus and Analytical Geometry', category: 'mth', image: '📐', links: [] },
-  { id: 2, code: 'MTH102', title: 'Advanced Mathematics', category: 'mth', image: '📐', links: [] },
-  { id: 3, code: 'MTH301', title: 'Linear Algebra', category: 'mth', image: '📐', links: [] },
+  // Medical ETEA
+  { id: 1, code: 'KPK TOP Academies Notes', title: 'Download Medical ETEA test preparation notes.', category: 'metea', image: '🧪', links: [] },
+  { id: 2, code: 'MTH102', title: 'Advanced Mathematics', category: 'metea', image: '🧪', links: [] },
+  { id: 3, code: 'MTH301', title: 'Linear Algebra', category: 'metea', image: '🧪', links: [] },
 
-  // Physics Books
-  { id: 4, code: 'PHY101', title: 'Classical Mechanics', category: 'phy', image: '⚛️', links: [] },
-  { id: 5, code: 'PHY201', title: 'Electricity and Magnetism', category: 'phy', image: '⚛️', links: [] },
-  { id: 6, code: 'PHY301', title: 'Thermodynamics', category: 'phy', image: '⚛️', links: [] },
+  // Engineering ETEA
+  { id: 4, code: 'KPK-TOP Academies notes.', title: 'Engineering ETEA test Preparation Note', category: 'eetea', image: '⚛️', links: [] },
+  { id: 5, code: '2024 Past paper', title: 'Engineering ETEA solved past paper', category: 'eetea', image: '⚛️', links: [] },
+  { id: 6, code: '2025 Past paper', title: 'Engineering ETEA solved past paper', category: 'eetea', image: '⚛️', links: [] },
 
   // Chemistry Books
   { id: 7, code: 'CHE101', title: 'General Chemistry', category: 'che', image: '⚗️', links: [] },
@@ -47,8 +47,8 @@ export const allBooksData = [
 
 export const bookCategories = [
   { id: 'all', name: 'All Books' },
-  { id: 'mth', name: 'MTH - Mathematics' },
-  { id: 'phy', name: 'PHY - Physics' },
+  { id: 'metea', name: 'Medical - ETEA' },
+  { id: 'eetea', name: 'Engineering - ETEA' },
   { id: 'che', name: 'CHE - Chemistry' },
   { id: 'bio', name: 'BIO - Biology' },
   { id: 'cs', name: 'CS - Computer Science' },

@@ -27,10 +27,10 @@ const AllBooks = () => {
         <div className="hero-content">
           <div className="hero-icon">📚</div>
           <h1>All Books</h1>
-          <p>Complete collection of educational books and study materials</p>
+          <p>Complete collection of educational books, Past papers and study materials.</p>
         </div>
       </div>
-      
+
       <div className="all-books-container">
         <div className="category-filter">
           <h2>Select Category</h2>
