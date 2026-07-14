@@ -1,8 +1,8 @@
 export const allBooksData = [
   // Medical ETEA
-  { id: 1, code: 'KPK TOP Academies Notes', title: 'Download Medical ETEA test preparation notes.', category: 'metea', image: '🧪', links: [] },
-  { id: 2, code: 'MTH102', title: 'Advanced Mathematics', category: 'metea', image: '🧪', links: [] },
-  { id: 3, code: 'MTH301', title: 'Linear Algebra', category: 'metea', image: '🧪', links: [] },
+  { id: 1, code: 'KPK TOP Academies Notes', title: 'Medical ETEA test preparation notes.', category: 'metea', image: '🧪', links: [] },
+  { id: 2, code: '2024 past paper', title: 'Medical ETEA solved Past paper', category: 'metea', image: '🧪', links: [] },
+  { id: 3, code: '2025 past paper', title: 'Medical ETEA solved Past paper', category: 'metea', image: '🧪', links: [] },
 
   // Engineering ETEA
   { id: 4, code: 'KPK-TOP Academies notes.', title: 'Engineering ETEA test Preparation Note', category: 'eetea', image: '⚛️', links: [] },
