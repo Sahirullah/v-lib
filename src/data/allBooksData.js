@@ -2,7 +2,7 @@ export const allBooksData = [
   // Medical ETEA
   { id: 1, code: 'KPK TOP Academies Notes', title: 'Medical ETEA test preparation notes.', category: 'metea', image: '🧪', links: [] },
   { id: 2, code: '2024 past paper', title: 'Medical ETEA solved Past paper', category: 'metea', image: '🧪', links: [
-    'https://drive.google.com/drive/folders/1Izp2iCeWA49jC3zPffl2Zq-RuYK1b3Z1',
+    'https://drive.google.com/file/d/1J44s6Dg59yHxfFjua9tnJC0if_rT2485/view?usp=sharing',
     'https://drive.google.com/file/d/1J44s6Dg59yHxfFjua9tnJC0if_rT2485/view?usp=sharing',
     'https://drive.google.com/file/d/1J68gkTbJWI7n-Om5NusTFbjhluZB_1pa/view?usp=sharing',
     'https://drive.google.com/file/d/1Pph8MpcLIQw1jj64CjDBEzUwPZ1fva0s/view?usp=sharing'
@@ -21,7 +21,12 @@ export const allBooksData = [
     'https://drive.google.com/file/d/1y38Y_rmZbqWGbi5DDi76evUx2Radh1Zx/view?usp=sharing',
     'https://drive.google.com/file/d/1BPDGdhSF9VSMN4EhJGNXEgSLxz7s_ZvY/view?usp=sharing'
   ] },
-  { id: 8, code: '2024 Past paper', title: 'NMDCAT solved Past paper', category: 'nmdcat', image: '⚗️', links: [] },
+  { id: 8, code: 'Different Past paper', title: 'NMDCAT solved Past paper', category: 'nmdcat', image: '⚗️', links: [
+    'https://drive.google.com/file/d/1u_EE-VWIDhHBUg-j2KTU4Um2TITkyWEm/view?usp=sharing',
+    'https://drive.google.com/file/d/1A_PcIHmllGnAeEtazAsC9KZfIhH_jI8f/view?usp=sharing',
+    'https://drive.google.com/file/d/17c3UAf8qDmT4przfeAnLJ1tUukQEt6Os/view?usp=sharing',
+    'https://drive.google.com/file/d/1IcrcS9RpOfz01jXSfsS8h0vCNQajdKMs/view?usp=sharing'
+  ] },
   { id: 9, code: '2025 Past paper', title: 'NMDCAT solved Past paper', category: 'nmdcat', image: '⚗️', links: [
     'https://drive.google.com/file/d/1Ck0YW_Lz40KxYWb6xwygtCdV7eu_jhCF/view',
     'https://drive.google.com/file/d/1xExpILOaw0Df7d2C-y3ax0Ggjy5To8mb/view',
