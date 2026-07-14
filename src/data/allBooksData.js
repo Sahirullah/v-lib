@@ -27,8 +27,7 @@ export const allBooksData = [
     'https://drive.google.com/file/d/1xExpILOaw0Df7d2C-y3ax0Ggjy5To8mb/view',
     'https://drive.google.com/file/d/1NxtBVRa9vdfODkLhlWTlF5w3mREPr8LN/view',
     'https://drive.google.com/file/d/1OuYonLOA3qTV2a0GN6kRcFg1aU1grn6C/view',
-    'https://drive.google.com/file/d/1MwsKZl5Va8H8f3tqYkW8WpSIIFMneEnq/view',
-    ''
+    'https://drive.google.com/file/d/1MwsKZl5Va8H8f3tqYkW8WpSIIFMneEnq/view'
   ] },
 
   // HEC
