@@ -25,7 +25,12 @@ export const allBooksData = [
     'https://drive.google.com/file/d/1u_EE-VWIDhHBUg-j2KTU4Um2TITkyWEm/view?usp=sharing',
     'https://drive.google.com/file/d/1A_PcIHmllGnAeEtazAsC9KZfIhH_jI8f/view?usp=sharing',
     'https://drive.google.com/file/d/17c3UAf8qDmT4przfeAnLJ1tUukQEt6Os/view?usp=sharing',
-    'https://drive.google.com/file/d/1IcrcS9RpOfz01jXSfsS8h0vCNQajdKMs/view?usp=sharing'
+    'https://drive.google.com/file/d/1IcrcS9RpOfz01jXSfsS8h0vCNQajdKMs/view?usp=sharing',
+    'https://drive.google.com/file/d/18gni-Fovw5kKtxmmcmkfilIj0ErQE7-k/view?usp=sharing',
+    'https://drive.google.com/file/d/18rSW2rf_3fMsB0cfGLxB8F8iTs5LlkFM/view?usp=sharing',
+    'https://drive.google.com/file/d/190cu95FWeTm0VwlUIRg2-Oe_YgW4AuHB/view?usp=sharing',
+    'https://drive.google.com/file/d/195w45DcCp811yDFYyKv27isowKwbVEAH/view?usp=sharing',
+    'https://drive.google.com/file/d/19OcUp7xo5B-scMA7a-KpS07q_jw4trh4/view?usp=sharing'
   ] },
   { id: 9, code: '2025 Past paper', title: 'NMDCAT solved Past paper', category: 'nmdcat', image: '⚗️', links: [
     'https://drive.google.com/file/d/1Ck0YW_Lz40KxYWb6xwygtCdV7eu_jhCF/view',
