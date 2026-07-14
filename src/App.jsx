@@ -18,6 +18,7 @@ import BoardDetail from './pages/BoardDetail'
 import ETEAHEC from './pages/ETEAHEC'
 import WebDevelopment from './pages/WebDevelopment'
 import HTML from './pages/HTML'
+import AllBooks from './pages/AllBooks'
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
             <Route path="/etea-hec" element={<ETEAHEC />} />
             <Route path="/web-development" element={<WebDevelopment />} />
             <Route path="/html" element={<HTML />} />
+            <Route path="/all-books" element={<AllBooks />} />
           </Routes>
         </div>
       </Router>
