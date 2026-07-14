@@ -1,23 +1,40 @@
 export const allBooksData = [
   // Medical ETEA
   { id: 1, code: 'KPK TOP Academies Notes', title: 'Medical ETEA test preparation notes.', category: 'metea', image: '🧪', links: [] },
-  { id: 2, code: '2024 past paper', title: 'Medical ETEA solved Past paper', category: 'metea', image: '🧪', links: [] },
+  { id: 2, code: '2024 past paper', title: 'Medical ETEA solved Past paper', category: 'metea', image: '🧪', links: [
+    'https://drive.google.com/drive/folders/1Izp2iCeWA49jC3zPffl2Zq-RuYK1b3Z1',
+    'https://drive.google.com/file/d/1J44s6Dg59yHxfFjua9tnJC0if_rT2485/view?usp=sharing',
+    'https://drive.google.com/file/d/1J68gkTbJWI7n-Om5NusTFbjhluZB_1pa/view?usp=sharing',
+    'https://drive.google.com/file/d/1Pph8MpcLIQw1jj64CjDBEzUwPZ1fva0s/view?usp=sharing'
+  ] },
   { id: 3, code: '2025 past paper', title: 'Medical ETEA solved Past paper', category: 'metea', image: '🧪', links: [] },
 
   // Engineering ETEA
-  { id: 4, code: 'KPK-TOP Academies notes.', title: 'Engineering ETEA test Preparation Note', category: 'eetea', image: '⚛️', links: [] },
+  { id: 4, code: 'KPK TOP Academies notes.', title: 'Engineering ETEA test Preparation Note', category: 'eetea', image: '⚛️', links: [] },
   { id: 5, code: '2024 Past paper', title: 'Engineering ETEA solved past paper', category: 'eetea', image: '⚛️', links: [] },
   { id: 6, code: '2025 Past paper', title: 'Engineering ETEA solved past paper', category: 'eetea', image: '⚛️', links: [] },
 
-  // Chemistry Books
-  { id: 7, code: 'CHE101', title: 'General Chemistry', category: 'che', image: '⚗️', links: [] },
-  { id: 8, code: 'CHE201', title: 'Organic Chemistry', category: 'che', image: '⚗️', links: [] },
-  { id: 9, code: 'CHE301', title: 'Physical Chemistry', category: 'che', image: '⚗️', links: [] },
+  // NMDCAT
+  { id: 7, code: 'KIPS Academy Note', title: 'NMDCAT test Preparation note', category: 'nmdcat', image: '⚗️', links: [
+    'https://drive.google.com/file/d/1Dhbn8Kax4yQ6pPn4sd6uPT9D869WRA8E/view?usp=sharing',
+    'https://drive.google.com/file/d/1XM5xtV9neM_XNlOxlukZ5hr3KdyXfBB8/view?usp=sharing',
+    'https://drive.google.com/file/d/1y38Y_rmZbqWGbi5DDi76evUx2Radh1Zx/view?usp=sharing',
+    'https://drive.google.com/file/d/1BPDGdhSF9VSMN4EhJGNXEgSLxz7s_ZvY/view?usp=sharing'
+  ] },
+  { id: 8, code: '2024 Past paper', title: 'NMDCAT solved Past paper', category: 'nmdcat', image: '⚗️', links: [] },
+  { id: 9, code: '2025 Past paper', title: 'NMDCAT solved Past paper', category: 'nmdcat', image: '⚗️', links: [
+    'https://drive.google.com/file/d/1Ck0YW_Lz40KxYWb6xwygtCdV7eu_jhCF/view',
+    'https://drive.google.com/file/d/1xExpILOaw0Df7d2C-y3ax0Ggjy5To8mb/view',
+    'https://drive.google.com/file/d/1NxtBVRa9vdfODkLhlWTlF5w3mREPr8LN/view',
+    'https://drive.google.com/file/d/1OuYonLOA3qTV2a0GN6kRcFg1aU1grn6C/view',
+    'https://drive.google.com/file/d/1MwsKZl5Va8H8f3tqYkW8WpSIIFMneEnq/view',
+    ''
+  ] },
 
-  // Biology Books
-  { id: 10, code: 'BIO101', title: 'General Biology', category: 'bio', image: '🧪', links: [] },
-  { id: 11, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪', links: [] },
-  { id: 12, code: 'BIO301', title: 'Molecular Biology', category: 'bio', image: '🧪', links: [] },
+  // HEC
+  { id: 10, code: 'KPK Top Academies Note', title: 'HEC test Preparation note', category: 'hec', image: '🧪', links: [] },
+  { id: 11, code: '2024 Past paper', title: 'HEC solved Past paper', category: 'hec', image: '🧪', links: [] },
+  { id: 12, code: '2025 Past paper', title: 'HEC solved Past paper', category: 'hec', image: '🧪', links: [] },
 
   // Computer Science Books
   { id: 13, code: 'CS101', title: 'Introduction to Programming', category: 'cs', image: '💻', links: [] },
@@ -49,8 +66,8 @@ export const bookCategories = [
   { id: 'all', name: 'All Books' },
   { id: 'metea', name: 'Medical - ETEA' },
   { id: 'eetea', name: 'Engineering - ETEA' },
-  { id: 'che', name: 'CHE - Chemistry' },
-  { id: 'bio', name: 'BIO - Biology' },
+  { id: 'nmdcat', name: 'NMDCAT' },
+  { id: 'hec', name: 'HEC' },
   { id: 'cs', name: 'CS - Computer Science' },
   { id: 'eng', name: 'ENG - English' },
   { id: 'eco', name: 'ECO - Economics' },
