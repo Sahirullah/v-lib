@@ -50,11 +50,6 @@ export const allBooksData = [
   { id: 14, code: 'CS201', title: 'Data Structures', category: 'cs', image: '💻', links: [] },
   { id: 15, code: 'CS301', title: 'Algorithms', category: 'cs', image: '💻', links: [] },
 
-  // English Books
-  { id: 16, code: 'ENG101', title: 'English Grammar', category: 'eng', image: '📚', links: [] },
-  { id: 17, code: 'ENG201', title: 'Literature and Composition', category: 'eng', image: '📚', links: [] },
-  { id: 18, code: 'ENG301', title: 'Advanced Writing', category: 'eng', image: '📚', links: [] },
-
   // Economics Books
   { id: 19, code: 'ECO101', title: 'Microeconomics', category: 'eco', image: '📊', links: [] },
   { id: 20, code: 'ECO201', title: 'Macroeconomics', category: 'eco', image: '📊', links: [] },
@@ -69,6 +64,29 @@ export const allBooksData = [
   { id: 25, code: 'HIS101', title: 'World History', category: 'his', image: '📖', links: [] },
   { id: 26, code: 'HIS201', title: 'Modern History', category: 'his', image: '📖', links: [] },
   { id: 27, code: 'HIS301', title: 'Islamic History', category: 'his', image: '📖', links: [] },
+
+    // English Books
+  { id: 16, code: 'English', title: 'English Grammar', category: 'eng', image: '📚', links: [] },
+  { id: 17, code: 'English', title: 'Literature and Composition', category: 'eng', image: '📚', links: [] },
+  { id: 18, code: 'English', title: 'Advanced Writing', category: 'eng', image: '📚', links: [] },
+
+
+
+    // Biology Books
+  { id: 16, code: 'Biology', title: 'English Grammar', category: 'bio', image: '📚', links: [] },
+  { id: 17, code: 'Biology', title: 'Literature and Composition', category: 'bio', image: '📚', links: [] },
+  { id: 18, code: 'Biology', title: 'Advanced Writing', category: 'bio', image: '📚', links: [] },
+
+    // Physics Books
+  { id: 16, code: 'Physics', title: 'English Grammar', category: 'phy', image: '📚', links: [] },
+  { id: 17, code: 'Physics', title: 'Literature and Composition', category: 'phy', image: '📚', links: [] },
+  { id: 18, code: 'Physics', title: 'Advanced Writing', category: 'phy', image: '📚', links: [] },
+
+    // Math Books
+  { id: 16, code: 'Math', title: 'English Grammar', category: 'mth', image: '📚', links: [] },
+  { id: 17, code: 'Math', title: 'Literature and Composition', category: 'mth', image: '📚', links: [] },
+  { id: 18, code: 'Math', title: 'Advanced Writing', category: 'mth', image: '📚', links: [] },
+
 ];
 
 export const bookCategories = [
@@ -82,4 +100,7 @@ export const bookCategories = [
   { id: 'eco', name: 'ECO - Economics' },
   { id: 'psy', name: 'PSY - Psychology' },
   { id: 'his', name: 'HIS - History' },
+  { id: 'bio', name: 'Biology-books' },
+  { id: 'phy', name: 'Physics-books' },
+  { id: 'mth', name: 'Math-books' },
 ];
