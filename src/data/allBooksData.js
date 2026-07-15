@@ -73,7 +73,12 @@ export const allBooksData = [
     'https://drive.google.com/file/d/1HmFPZH8_kqqJxKy3TWQF-H6HuSYw4c5M/view?usp=sharing',
     'https://drive.google.com/file/d/1Hkm17ooe5FpJbfpoFwaU0qBQ8n6pSUgc/view?usp=sharing'
   ] },
-  { id: 17, code: 'English', title: 'Literature and Composition', category: 'eng', image: '📚', links: [] },
+  { id: 17, code: 'English', title: 'English Grammar,Tenses,Punctuation and preposition etc files ', category: 'eng', image: '📚', links: [
+    'https://drive.google.com/file/d/10J89zlfmbpSUSOBZqYxPiizNbapD6i8R/view?usp=sharing',
+    'https://drive.google.com/file/d/1QdvZv_nnXbmzoVi8KlUbXByfMBbgSP-5/view?usp=sharing',
+    'https://drive.google.com/file/d/1UDjJ_eimGLxiU5qE6uT7LiF9-brHnSGd/view?usp=sharing',
+    'https://drive.google.com/file/d/1wWy-JCeNYq189F25a7JY8LYLx6UI6F7X/view?usp=sharing'
+  ] },
   { id: 18, code: 'English', title: 'Advanced Writing', category: 'eng', image: '📚', links: [] },
 
 
