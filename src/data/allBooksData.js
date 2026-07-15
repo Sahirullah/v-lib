@@ -109,7 +109,7 @@ export const allBooksData = [
   ] },
 
     // Chemistry
-  { id: 16, code: 'Chemistry Notes', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [
+  { id: 16, code: 'Chemistry chp 1 to chp 8', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [
     'https://drive.google.com/file/d/1l4ycHLQaHFNf6XeUEMKBX31jeKPnX55w/view?usp=sharing',
     'https://drive.google.com/file/d/1hq568vVwR6trF-GJ_JcEQ0bYBAauYptV/view?usp=sharing',
     'https://drive.google.com/file/d/1m8OTc4J9ad5xo2bKZyRk4KZDkWrP6MLs/view?usp=sharing',
@@ -119,7 +119,7 @@ export const allBooksData = [
     'https://drive.google.com/file/d/1lbDXxdGEvbvQ2regA5LyGzaPkIFXYrF2/view?usp=sharing',
     'https://drive.google.com/file/d/1ktr0gl_TEVxxPoPvPDWyZNSTK2JQI6lT/view?usp=sharing'
   ] },
-  { id: 17, code: 'Chemistry Notes', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [
+  { id: 17, code: 'Chemistry chp 9 to chp 14', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [
     'https://drive.google.com/file/d/1BIVJ883G3ZdnUtz99A_QX3kRrqvMlgM5/view?usp=sharing',
     'https://drive.google.com/file/d/1JGxXc3HIlu8DRQSlTt-5VLj0ir5r-7Hq/view?usp=sharing',
     'https://drive.google.com/file/d/1YmanonMJtEJmXe-dxO_qSMIxeXId1nTj/view?usp=sharing',
@@ -129,9 +129,30 @@ export const allBooksData = [
   { id: 18, code: 'Chemistry', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [] },
 
     // Physics Books
-  { id: 16, code: 'Physics', title: 'English Grammar', category: 'phy', image: '📚', links: [] },
-  { id: 17, code: 'Physics', title: 'Literature and Composition', category: 'phy', image: '📚', links: [] },
-  { id: 18, code: 'Physics', title: 'Advanced Writing', category: 'phy', image: '📚', links: [] },
+  { id: 16, code: 'Physics chp 1 to chp 8', title: 'English Grammar', category: 'phy', image: '📚', links: [
+    'https://drive.google.com/file/d/1mVlZfqbKM1IBMJoKsAuw3VAaCUiuQyOk/view?usp=sharing',
+    'https://drive.google.com/file/d/1BgHRZOoswmHPO1y6IOyHHe9RxYNrmNSJ/view?usp=sharing',
+    'https://drive.google.com/file/d/12LeOKxyfq8kSizewRWsnXkSsB8Wm6YOe/view?usp=sharing',
+    'https://drive.google.com/file/d/1WP-SdMJIIabQAG3gMVsFm1k0Z07QIqQw/view?usp=sharing',
+    'https://drive.google.com/file/d/1Js9SeSgynFIaVFvBXK2PRgwHqOE_t7Dd/view?usp=sharing',
+    'https://drive.google.com/file/d/1_C4QPd6NtxsMoU0dTJtCuBre6tw5buG3/view?usp=sharing',
+    'https://drive.google.com/file/d/1cLzVvvJ0OtHoPF73Ee1otAf0SPLKILAH/view?usp=sharing',
+    'https://drive.google.com/file/d/1aI_xBY5NIfSPM18_1kBHJXJlxHLY_o4Y/view?usp=sharing'
+  ] },
+  { id: 17, code: 'Physics chp 9 to chp 16', title: 'Literature and Composition', category: 'phy', image: '📚', links: [
+    'https://drive.google.com/file/d/1AjfkFG51x12DKZmr5YYjjftjc3N8wCs7/view?usp=sharing',
+    'https://drive.google.com/file/d/1--xbso7q4k31s0UTExoGDzXcydzNnIC0/view?usp=sharing',
+    'https://drive.google.com/file/d/12ScqDVPqAoLm9omijIOBL0djQbeizB_2/view?usp=sharing',
+    'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZIcba7ull8ORWavkNTii2UtUxH7BpwZb/view?usp=sharing',
+    'https://drive.google.com/file/d/1LRNIXmW7CF5iS_p8ykXNMbRJ4UdTlner/view?usp=sharing',
+    'https://drive.google.com/file/d/1K3WBeugEU72SgyjfKytr7l1PXxEErQtr/view?usp=sharing',
+    'https://drive.google.com/file/d/1EXp-Mu-H6JUwWJ_F_nPE555cqeoa7RH4/view?usp=sharing'
+  ] },
+  { id: 18, code: 'Physics', title: 'Advanced Writing', category: 'phy', image: '📚', links: [
+    'https://drive.google.com/file/d/1g9AAhl0aFq7GwROUR6TH9srXoxG3zuqf/view?usp=sharing',
+    'https://drive.google.com/file/d/15Doqp7MWvQPLSgFqOJyK15KViMy58KWW/view?usp=sharing'
+  ] },
 
     // Math Books
   { id: 16, code: 'Math', title: 'English Grammar', category: 'mth', image: '📚', links: [] },
