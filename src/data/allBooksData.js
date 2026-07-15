@@ -73,9 +73,60 @@ export const allBooksData = [
 
 
     // Biology Books
-  { id: 16, code: 'Biology', title: 'English Grammar', category: 'bio', image: '📚', links: [] },
-  { id: 17, code: 'Biology', title: 'Literature and Composition', category: 'bio', image: '📚', links: [] },
-  { id: 18, code: 'Biology', title: 'Advanced Writing', category: 'bio', image: '📚', links: [] },
+  { id: 16, code: 'Biology Chp 1 to chp 8', title: 'Biology important chapters', category: 'bio', image: '📚', links: [
+    'https://drive.google.com/file/d/1-t6SwkfkLeNcIjGfOPAMwYl-NfamtXln/view?usp=sharing',
+    'https://drive.google.com/file/d/1V5sttbsmPZ-m5eEYTxBUXNQZkcTlRXTE/view?usp=sharing',
+    'https://drive.google.com/file/d/18M0wvWPryTLtmFOdYgWbLMG_uUwYCGZA/view?usp=sharing',
+    'https://drive.google.com/file/d/1UdVRSw6zcWrbYMOuJDw-8fDrYXchuz_Q/view?usp=sharing',
+    'https://drive.google.com/file/d/15HMJU0wRvnDmbOh_px6a6fe9l3Tnjhy0/view?usp=sharing',
+    'https://drive.google.com/file/d/1ts_6hv4JVh4U2_WimAdKD05CA4r5WuYZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1OWtHX7SIB5QBlzKAGsh75uBtQH0nKDCJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1MprySxsw9F8_UU9rRgES9lmELlDrgjKG/view?usp=sharing',
+    'https://drive.google.com/file/d/1Pt5YPVMl2Dru5zANk4-rdQXuSeYBmmQp/view?usp=sharing',
+    'https://drive.google.com/file/d/1_UVwI9mnj-Vk4UR1DRuwSmgc0LOtByZs/view?usp=sharing'
+  ] },
+  { id: 17, code: 'Biology chp 11 to chp 20', title: 'Biology important chapters', category: 'bio', image: '📚', links: [
+    'https://drive.google.com/file/d/143LjV3udNk0nDipgmJTNEK-w0cXP6yMJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1FC6bt9I7VZJvF3SZsQRjlrN7cjEiyKAy/view?usp=sharing',
+    'https://drive.google.com/file/d/1W7JC2dgsHJ4e_rGtG7zm5t7x2xwDdYxP/view?usp=sharing',
+    'https://drive.google.com/file/d/1bkJ9Eq_XVvI8dBvFWY2xMBMp7M3E_UJK/view?usp=sharing',
+    'https://drive.google.com/file/d/1djKy_hxjVXcNRP64bwcfeas6RgpQaMvV/view?usp=sharing',
+    'https://drive.google.com/file/d/1RbwfCrXV8uu8xdgnkjU3Xcsmw8E6Pcga/view?usp=sharing',
+    'https://drive.google.com/file/d/1R7KGSBELKG5L7ncDXpT8h553XRXSQ7J8/view?usp=sharing',
+    'https://drive.google.com/file/d/1LR6bX1kqEc_NOurEKMJpD4KlgxTGj9CD/view?usp=sharing',
+    'https://drive.google.com/file/d/1Qn7KIyPbWCnM6bn4zOWe8hGPkJ8g4a6y/view?usp=sharing',
+    'https://drive.google.com/file/d/1rdxdTD_LRh0x7TVFZxK8qX0QwhOZx2um/view?usp=sharing'
+  ] },
+  { id: 18, code: 'Biology chp 21 to chp 28', title: 'Biology important chapters', category: 'bio', image: '📚', links: [
+    'https://drive.google.com/file/d/1wQiszZosbiqfBZVdrT1HocbfCwUE-YfS/view?usp=sharing',
+    'https://drive.google.com/file/d/1k5fi0tJEzCdL-ijV2wmV_nKsJHAPGeCl/view?usp=sharing',
+    'https://drive.google.com/file/d/1kKn9cQGZzF7qxw_ATabXi9Snie8wnc09/view?usp=sharing',
+    'https://drive.google.com/file/d/1b6wgxD898OyO5hHtVJfyWNh6Z_Jz1hwe/view?usp=sharing',
+    'https://drive.google.com/file/d/1p9oDODvJAsbyxgFYJj7j2eSFZDHww74A/view?usp=sharing',
+    'https://drive.google.com/file/d/1NCvxJnd-_-SETq0g3wpUfhtuFXYOlFve/view?usp=sharing',
+    'https://drive.google.com/file/d/1gsPChGLY3xI_7Cj9RXyogx-GxYp1bCzX/view?usp=sharing',
+    'https://drive.google.com/file/d/1ahDE3T8c2X3O667FpVQOPIRMiDhcLkaF/view?usp=sharing'
+  ] },
+
+    // Chemistry
+  { id: 16, code: 'Chemistry Notes', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [
+    'https://drive.google.com/file/d/1l4ycHLQaHFNf6XeUEMKBX31jeKPnX55w/view?usp=sharing',
+    'https://drive.google.com/file/d/1hq568vVwR6trF-GJ_JcEQ0bYBAauYptV/view?usp=sharing',
+    'https://drive.google.com/file/d/1m8OTc4J9ad5xo2bKZyRk4KZDkWrP6MLs/view?usp=sharing',
+    'https://drive.google.com/file/d/1iwLeqz1z8bWjsthY0y9vK_2ApjhvfvzI/view?usp=sharing',
+    'https://drive.google.com/file/d/1c0oJcWkef5chAWgI9RNq-3BGYEZCwlZL/view?usp=sharing',
+    'https://drive.google.com/file/d/1IhBkECoe4ako0Nv_KCdvwdMG-E1jfxlZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1lbDXxdGEvbvQ2regA5LyGzaPkIFXYrF2/view?usp=sharing',
+    'https://drive.google.com/file/d/1ktr0gl_TEVxxPoPvPDWyZNSTK2JQI6lT/view?usp=sharing'
+  ] },
+  { id: 17, code: 'Chemistry Notes', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [
+    'https://drive.google.com/file/d/1BIVJ883G3ZdnUtz99A_QX3kRrqvMlgM5/view?usp=sharing',
+    'https://drive.google.com/file/d/1JGxXc3HIlu8DRQSlTt-5VLj0ir5r-7Hq/view?usp=sharing',
+    'https://drive.google.com/file/d/1YmanonMJtEJmXe-dxO_qSMIxeXId1nTj/view?usp=sharing',
+    'https://drive.google.com/file/d/1Rl5j2hx6nCeh7AKw4-0uIbRpgB7MPJzH/view?usp=sharing',
+    'https://drive.google.com/file/d/1sNOua81kU0d5LxnzbRvdJiyJM6PcKHKS/view?usp=sharing'
+  ] },
+  { id: 18, code: 'Chemistry', title: 'Chemistry important chapters', category: 'chem', image: '📚', links: [] },
 
     // Physics Books
   { id: 16, code: 'Physics', title: 'English Grammar', category: 'phy', image: '📚', links: [] },
@@ -101,6 +152,7 @@ export const bookCategories = [
   { id: 'psy', name: 'PSY - Psychology' },
   { id: 'his', name: 'HIS - History' },
   { id: 'bio', name: 'Biology-books' },
+  { id: 'chem', name: 'Chemistry-books' },
   { id: 'phy', name: 'Physics-books' },
   { id: 'mth', name: 'Math-books' },
 ];
