@@ -243,9 +243,11 @@ export const finalTermData = [
   { id: 39, code: 'BT406', title: 'Research Methodology & Skill Enhancement', category: 'bt', image: '🧬' ,links:[
   //BT501
   ]},
+  //BT501
   { id: 40, code: 'BT501', title: 'Health Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1uUBhe5EVEg_ZgyNuuBc2MoVC5egpg9VF/view?usp=sharing'
   ]},
+  //BT503
   { id: 41, code: 'BT503', title: 'Environment Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1S52PDBmY6-IU29gAA5h5zud_GWxyG51p/view?usp=sharing'
   ]},
