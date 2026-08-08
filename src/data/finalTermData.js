@@ -181,9 +181,13 @@ export const finalTermData = [
   { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' ,links:[
     'https://docs.google.com/document/d/1bgYNC-kbJX-E_A0ADMH6ZlX57MvOekf2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  //BNK610
   { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
+  //BNK611
   { id: 30, code: 'BNK611', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
+  //BNK612
   { id: 30, code: 'BNK612', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
+  //BNK613
   { id: 30, code: 'BNK613', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' ,links:[]},
   
   // BT - Biotechnology
