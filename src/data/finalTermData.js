@@ -251,6 +251,7 @@ export const finalTermData = [
   { id: 41, code: 'BT503', title: 'Environment Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1S52PDBmY6-IU29gAA5h5zud_GWxyG51p/view?usp=sharing'
   ]},
+  //BT504
   { id: 42, code: 'BT504', title: 'Genomics and Proteomics', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/10S9ln2_FUdwI0w2E8X4xzIqAEgsOh1Gy/view?usp=sharing'
   ]},
