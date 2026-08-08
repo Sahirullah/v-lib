@@ -135,9 +135,11 @@ export const finalTermData = [
   ]},
   //BIO401
   { id: 19, code: 'BIO401', title: 'Biostatistics', category: 'bio', image: '🧪' ,Link:''},
+  //BIO502
   { id: 20, code: 'BIO502', title: 'Genomics', category: 'bio', image: '🧪' ,links:[
     'https://drive.google.com/file/d/1KMHWW3P4BadPCiCWcCgXHyPVbBgx6IdZ/view?usp=sharing'
   ]},
+  //
   { id: 21, code: 'BIO503', title: 'Biological Physics', category: 'bio', image: '🧪' ,links:[
     'https://drive.google.com/file/d/1PpQPPbxRFM60MjHXx1dKA2gfanLYbVHB/view?usp=sharing'
   ]},
