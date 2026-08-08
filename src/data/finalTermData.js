@@ -201,38 +201,47 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1gXtxV9RT12SPPyBA9JjpQCx8P16Q20bH/view?usp=sharing',
     'https://drive.google.com/file/d/1xyma7VSdrpHUqGKFLxHWs9j56MlPixVc/view?usp=sharing'
   ] },
+  //BT102
   { id: 32, code: 'BT102', title: 'Microbiology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/10L8ieTfTBA_4VugzwN9b7Arp4FOrGozz/view?usp=sharing',
     'https://drive.google.com/file/d/1xMalR1YARdAZpl6mp4uBTB8JsnfkYsqg/view?usp=sharing',
     'https://drive.google.com/file/d/1vUMq4CjHcFedUTSfCOtMcZlJolvB7g4U/view?usp=sharing',
     'https://drive.google.com/file/d/1jd_sbNK5yrrFCNMv96Uzz-ewbJSMwGZm/view?usp=sharing'
   ]},
+  //BT201
   { id: 33, code: 'BT201', title: 'Ecology, Biodiversity & Evolution-II', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1zB6U15GEaME53TfoL8g5fIguZe8o-vJw/view?usp=sharing',
     'https://drive.google.com/file/d/1D6vpNCagSORsGoTzsXCk3g7dujDUnltN/view?usp=sharing'
   ]},
+  //BT302
   { id: 34, code: 'BT302', title: 'Immunology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1WzPGj1IAee7u7RdXGFOSnb3UuP1UolMu/view?usp=sharing',
     'https://drive.google.com/file/d/1mbG0ci5zqfYmFSWMa0zXpUF1GxVOdS5E/view?usp=sharing'
   ]},
+  //BT401
   { id: 35, code: 'BT401', title: 'Genetic Resources & Conservation', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1jfSESiNUAAJLxq_MxIVKOWKxPRXmZ2JS/view?usp=sharing'
   ]},
+//BT402
   { id: 36, code: 'BT402', title: 'Microbial Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://docs.google.com/document/d/1_1GEhFugLi13B2bSE89cwDBu-A807T2d/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1JwWgh0srfZAuPtLVX78LhLCsFN1oqkjh/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1FjFqC8sRTDw_I6IQj0X6JOY34cNn8KDe/view?usp=sharing'
   ]},
+  //BT403
   { id: 37, code: 'BT403', title: 'Agriculture Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1xA1F3O0LepUUe3dZbTqqv0GncGQAqStm/view?usp=sharing'
   ]},
+  //BT404
   { id: 37, code: 'BT404', title: 'Food Biotechnology', category: 'bt', image: '🧬' ,Link:''},
+  //BT405
   { id: 38, code: 'BT405', title: 'Nano Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://docs.google.com/document/d/1lZB-LBrxmy63uXSNm3yqkSEwYMHKe2o0/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1_fwR4kIefS8mezDgLV7s9zmu4BpnHM2s/view?usp=sharing'
   ]},
+  //BT406
   { id: 39, code: 'BT406', title: 'Research Methodology & Skill Enhancement', category: 'bt', image: '🧬' ,links:[
-    
+  //BT501
   ]},
   { id: 40, code: 'BT501', title: 'Health Biotechnology', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1uUBhe5EVEg_ZgyNuuBc2MoVC5egpg9VF/view?usp=sharing'
