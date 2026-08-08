@@ -14,6 +14,7 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1uF_fBr9Y4qPFcvlh8oSuhwvLQU76A450/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1JjBp_nFQTyIaxI23tT8wiZKiN8ITkQtk/view?usp=sharing'
   ]},
+  //Acc501
   { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘',links :[
     'https://drive.google.com/file/d/1Z9kO5hXTrXFBPaYD_jclvji7lNspbt7p/view?usp=sharing',
     'https://drive.google.com/file/d/1oVx3694iCnM-u5ZPHfG-nJfQkd09AEKd/view?usp=sharing'
@@ -33,9 +34,11 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1hjLw6Jzw3rOb5vpVxlU4YO3coPrnpt1a/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1RAuP9xX8XrXutkqq0C3r6TouTYlBQ8dy/view?usp=sharing'
   ]},
+  //BIF402
   { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬',links:[
     'https://docs.google.com/document/d/1CD44mp3vjH6Et-2Rd2ewGyBoY-o7FS-i/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  //BIF501
   { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,links:[
     'https://drive.google.com/file/d/154JbhwFtsIhmiA5WCuS9sU4T0c1UYvGt/view?usp=sharing',
     'https://drive.google.com/file/d/1z5cOBBOroT6cZeuVWHfhB6Vff0RxOzC0/view?usp=sharing',
