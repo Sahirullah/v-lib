@@ -396,6 +396,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1dBmhleJRhvbGN_v_ohBtsI2HE-s_DaZ1/view?usp=sharing',
     'https://docs.google.com/document/d/1cwMGNoUl0Ol92LZJ-W76hWjDNfaKdKBe/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+//
   { id: 58, code: 'CS302', title: 'Digital Logic and Design', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1G-wy5rHB4GcOccOb1ITiMNmQWUvPF2Sw/view?usp=sharing',
     'https://drive.google.com/file/d/1sso4PZKP2FV3xQdA4czmuwTgm9olOEXv/view?usp=sharing',
