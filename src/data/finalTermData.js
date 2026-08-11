@@ -402,6 +402,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1sso4PZKP2FV3xQdA4czmuwTgm9olOEXv/view?usp=sharing',
     'https://docs.google.com/document/d/1dhLRGaolaXon5t84oBx2ameAz9eLrT1C/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ] },
+//CS304
   { id: 59, code: 'CS304', title: 'Object Oriented Programming', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1HWIyPDqN1rKznMhQQG1e1unAul_8-yrH/view?usp=sharing',
     'https://drive.google.com/file/d/1aqx4wH0y6M3gOkUZ8KYm4t6dtWkJIZW4/view?usp=sharing',
