@@ -425,6 +425,7 @@ export const finalTermDataPart2 = [
   ]},
 //CS310
   { id: 60, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻',Link:'' },
+//CS311  
   { id: 61, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻' ,Link:''},
   { id: 62, code: 'CS312', title: 'Database Modeling and Design', category: 'cs', image: '💻',Link:'' },
   { id: 63, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming', category: 'cs', image: '💻',links:[
