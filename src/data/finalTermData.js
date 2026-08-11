@@ -265,6 +265,7 @@ export const finalTermData = [
   { id: 45, code: 'BT601', title: 'Virology', category: 'bt', image: '🧬' ,Link:''},
   //BT603
   { id: 46, code: 'BT603', title: 'Fermentation Technology', category: 'bt', image: '🧬' ,Link:''},
+  //BT605
   { id: 47, code: 'BT605', title: 'Biosafety & Bioethics', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/199CeOAppny_lcqsOtZwuqu_sEU3XJlOn/view?usp=sharing',
     'https://drive.google.com/file/d/1baKinBFmI13_98p1VksvtXqrm3Of7hdc/view?usp=sharing',
