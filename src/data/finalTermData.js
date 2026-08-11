@@ -361,6 +361,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1B9WVqD8WdoCoNpyqO9hAnLkAXzH1ksm1/view?usp=sharing',
     'https://drive.google.com/file/d/1NnqKskRDFxbPImJORWk8OI5eWemYLObX/view?usp=sharing'
   ]},
+  //CS201p
   { id: 53, code: 'CS201p', title: 'Introduction to Programming practical', category: 'cs', image: '💻', links:[
     'https://drive.google.com/file/d/1gSRqOmhaIlNhXPnkwBQde2PZazpbTxSb/view?usp=sharing',
     'https://drive.google.com/file/d/1HzimU837zDYdKZGpadwxhSz0t3D4XkUv/view?usp=sharing'
