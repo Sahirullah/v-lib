@@ -423,6 +423,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1gKk40p92GXzYsarRWOJoh25glQrzQCYW/view?usp=sharing',
     'https://drive.google.com/file/d/1FGfULh8RMyITUx7Q-yaSg5cGehY_FabB/view?usp=sharing'
   ]},
+//CS310
   { id: 60, code: 'CS310', title: 'Open Source Web Application Development', category: 'cs', image: '💻',Link:'' },
   { id: 61, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻' ,Link:''},
   { id: 62, code: 'CS312', title: 'Database Modeling and Design', category: 'cs', image: '💻',Link:'' },
