@@ -259,6 +259,7 @@ export const finalTermData = [
   { id: 43, code: 'BT505', title: 'Biosensors', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1eJBMd_jJwuvKRwt2jTIC_O2WX91gocX0/view?usp=sharing'
   ]},
+  //BT511T
   { id: 44, code: 'BT511T', title: 'Introduction to Biotechnology (Theory)', category: 'bt', image: '🧬' ,Link:''},
   { id: 45, code: 'BT601', title: 'Virology', category: 'bt', image: '🧬' ,Link:''},
   { id: 46, code: 'BT603', title: 'Fermentation Technology', category: 'bt', image: '🧬' ,Link:''},
