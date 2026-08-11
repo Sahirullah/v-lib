@@ -375,6 +375,7 @@ export const finalTermDataPart2 = [
   { id: 54, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻' ,links:[
     ''
 ]},
+//CS205
   { id: 55, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻',Link:'' },
   { id: 56, code: 'CS206', title: 'Introduction to Network Design & Analysis', category: 'cs', image: '💻' ,Link:''},
   { id: 57, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻' ,links:[
