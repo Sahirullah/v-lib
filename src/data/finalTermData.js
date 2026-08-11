@@ -287,6 +287,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/19YVOBbb4w59TENmHz0ZYt_UD8Nwwyp_i/view?usp=sharing',
     'https://docs.google.com/document/d/1NHo2-cUBQvi4F5XN3oQcUpVwIzqWbUpz/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  //CHE301
   { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️',links:[
     'https://drive.google.com/file/d/1wGwtlnGShdARiwbAtUDXhEdyUZ3kZEt-/view?usp=sharing'
   ] },
