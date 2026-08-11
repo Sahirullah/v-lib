@@ -429,6 +429,7 @@ export const finalTermDataPart2 = [
   { id: 61, code: 'CS311', title: 'Introduction to Web Services Development', category: 'cs', image: '💻' ,Link:''},
 //CS312 
   { id: 62, code: 'CS312', title: 'Database Modeling and Design', category: 'cs', image: '💻',Link:'' },
+//CS401 
   { id: 63, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1yZ4ZDnnsLlH3pb515c6L2tuo38oUabgH/view?usp=sharing',
     'https://drive.google.com/file/d/10hCla20kykNwfyRPUyTPMXAj4wm9KcTw/view?usp=sharing'
