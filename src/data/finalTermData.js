@@ -366,6 +366,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1gSRqOmhaIlNhXPnkwBQde2PZazpbTxSb/view?usp=sharing',
     'https://drive.google.com/file/d/1HzimU837zDYdKZGpadwxhSz0t3D4XkUv/view?usp=sharing'
   ] },
+  //CS202
   { id: 53, code: 'CS202', title: 'Fundamentals of Front End Development', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1KCh5sdlQrtGXduKljCn3QxHlPGAZRNAa/view?usp=sharing',
     'https://drive.google.com/file/d/1kYm8Dh-mah5n-3gV1ivTy5bcPSuYUtyU/view?usp=sharing'
