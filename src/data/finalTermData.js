@@ -434,6 +434,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1yZ4ZDnnsLlH3pb515c6L2tuo38oUabgH/view?usp=sharing',
     'https://drive.google.com/file/d/10hCla20kykNwfyRPUyTPMXAj4wm9KcTw/view?usp=sharing'
   ] },
+//CS402  
   { id: 64, code: 'CS402', title: 'Theory of Automata', category: 'cs', image: '💻',links:[
     'https://docs.google.com/document/d/1fu4-_rrAVsvXUml3qAugTgPWRS33PQPu/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1e2KOA-zsNhGMZahqrD4LtdObXfLo7ZYm/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
