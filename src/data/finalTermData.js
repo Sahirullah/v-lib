@@ -333,6 +333,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1F-0itkRxMzVQsx6c3V7xFAAxVyVU-HFR/view?usp=sharing',
     'https://drive.google.com/file/d/1djzgiF4m-4o1vxarwT3ouiSjIY_2PQzk/view?usp=sharing'
   ] },
+  //CS201
   { id: 52, code: 'CS201', title: 'Introduction to Programming', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1NgEf8O1VgaKYZ70NWZ3nuwrYp3bTkJzl/view?usp=sharing',
     'https://drive.google.com/file/d/1A8wMjGBSHMsMTXdKxFUJxHDczORjIodZ/view?usp=sharing',
