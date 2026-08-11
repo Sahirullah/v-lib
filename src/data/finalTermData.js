@@ -308,6 +308,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1thXCDOms37F8yZA_DUBX4s5S_mf_N5lg/view?usp=sharing',
     'https://drive.google.com/file/d/1-0mp1wtj1f9IO_e1_wZymRBnas_U8jwA/view?usp=sharing'
   ] },
+  //CS101
   { id: 51, code: 'CS101', title: 'Introduction to Computing', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1QhLkLGyvlGSLSILus0DX1gDehTbaodVH/view?usp=sharing',
     'https://drive.google.com/file/d/1PPfYdhmfITQ16zVWhdFxrNABoOxlLMEM/view?usp=sharing',
