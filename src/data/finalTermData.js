@@ -255,6 +255,7 @@ export const finalTermData = [
   { id: 42, code: 'BT504', title: 'Genomics and Proteomics', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/10S9ln2_FUdwI0w2E8X4xzIqAEgsOh1Gy/view?usp=sharing'
   ]},
+  //BT505
   { id: 43, code: 'BT505', title: 'Biosensors', category: 'bt', image: '🧬' ,links:[
     'https://drive.google.com/file/d/1eJBMd_jJwuvKRwt2jTIC_O2WX91gocX0/view?usp=sharing'
   ]},
