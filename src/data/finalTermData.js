@@ -261,6 +261,7 @@ export const finalTermData = [
   ]},
   //BT511T
   { id: 44, code: 'BT511T', title: 'Introduction to Biotechnology (Theory)', category: 'bt', image: '🧬' ,Link:''},
+  //BT601
   { id: 45, code: 'BT601', title: 'Virology', category: 'bt', image: '🧬' ,Link:''},
   //BT603
   { id: 46, code: 'BT603', title: 'Fermentation Technology', category: 'bt', image: '🧬' ,Link:''},
