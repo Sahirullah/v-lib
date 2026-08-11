@@ -379,6 +379,7 @@ export const finalTermDataPart2 = [
   { id: 55, code: 'CS205', title: 'Information Security', category: 'cs', image: '💻',Link:'' },
 //CS206
   { id: 56, code: 'CS206', title: 'Introduction to Network Design & Analysis', category: 'cs', image: '💻' ,Link:''},
+//CS301  
   { id: 57, code: 'CS301', title: 'Data Structures', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1JTLVCG99X0S1uKMXVvWMGj7O5WGlWRFg/view?usp=sharing',
     'https://drive.google.com/file/d/1jBHbk3YBmtZDDP7jH3POf8bXYVv_0U4c/view?usp=sharing',
