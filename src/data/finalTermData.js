@@ -371,6 +371,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1KCh5sdlQrtGXduKljCn3QxHlPGAZRNAa/view?usp=sharing',
     'https://drive.google.com/file/d/1kYm8Dh-mah5n-3gV1ivTy5bcPSuYUtyU/view?usp=sharing'
   ] },
+  //CS204
   { id: 54, code: 'CS204', title: 'Cyber Law', category: 'cs', image: '💻' ,links:[
     ''
 ]},
