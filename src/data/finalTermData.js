@@ -559,6 +559,7 @@ export const finalTermDataPart2 = [
   { id: 77, code: 'CS510', title: 'Software Requirement & Specification', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing'
   ]},
+  //CS601
   { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing',
     'https://drive.google.com/file/d/1hCQnXJNV9hyj0IHxbdmxFUuCgd24cT4t/view?usp=sharing',
