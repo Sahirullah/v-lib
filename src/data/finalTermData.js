@@ -575,6 +575,7 @@ export const finalTermDataPart2 = [
     'https://docs.google.com/document/d/1qfaMo07A8oc3QtzdE6rg7TU62H58yWms/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/19O2ncpKDcy9Jke15cP0zSrzeEOTZ6tvA/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  //Cs603
   { id: 79, code: 'CS603', title: '----------------', category: 'cs', image: '💻' ,links:[]},
   { id: 79, code: 'CS604', title: 'Operating Systems', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1TmGgFTrkgCnMTehjgrr13MJmPyAq4ZDD/view?usp=sharing',
