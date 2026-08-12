@@ -494,6 +494,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1WSGz2bSkzqvXFDPZoV65W_5Iv3jun8iD/view?usp=sharing',
     'https://drive.google.com/file/d/1VYVa-NjDacKWytYmUoVCL6kaT_i1VRyU/view?usp=sharing'
   ] },
+  //CS412
   { id: 69, code: 'CS432', title: 'Network Modeling and Simulation', category: 'cs', image: '💻',links:'' },
   { id: 70, code: 'CS435', title: 'Cloud Computing', category: 'cs', image: '💻',links:'' },
   { id: 71, code: 'CS501', title: 'Advanced Computer Architecture', category: 'cs', image: '💻',links:[
