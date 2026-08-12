@@ -555,6 +555,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1v_F_3IQvzhUNxc-qMQOAUUSjtpi6jYA3/view?usp=sharing',
     'https://drive.google.com/file/d/1IlAARSxQpLOJ25Kvbr3aszRTd4uiNIBc/view?usp=sharing'
   ] },
+  //
   { id: 77, code: 'CS510', title: 'Software Requirement & Specification', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing'
   ]},
