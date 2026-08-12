@@ -446,6 +446,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1a-ojHpChHoBwpwDMGiWdSr2yi1Hwlx43/view?usp=sharing',
     'https://drive.google.com/file/d/106lG49FBr-_CL1CzCeiZeODvnD2hdxGq/view?usp=sharing'
   ] },
+  //CS403
   { id: 65, code: 'CS403', title: 'Database Management System', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1R48Aeq2BKjkAxEIjsz-abFua4VUXL4Wb/view?usp=sharing',
     'https://drive.google.com/file/d/1L5qR1MLlDwwwwCTj1P0Sk3Bso4_zljFW/view?usp=sharing',
