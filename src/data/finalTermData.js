@@ -474,6 +474,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1mvEk_hGcz14V8U2JEA9_hSsDNBSyr7qi/view?usp=sharing',
     'https://drive.google.com/file/d/1qb_aZOHry5t-kTSkupciK5Qrie2emJb-/view?usp=sharing'
   ] },
+  //CS410
   { id: 68, code: 'CS410', title: 'Visual Programming', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1BX1AV9ojiKCfIseL5uoo1DdYnTWVFgl1/view?usp=sharing',
     'https://drive.google.com/file/d/1NOlVKRH-8JDTurXoUlppeDrELfcxaopo/view?usp=sharing',
