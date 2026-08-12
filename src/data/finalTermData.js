@@ -458,6 +458,7 @@ export const finalTermDataPart2 = [
   ] },
   //CS405
   { id: 66, code: 'CS405', title: ' Database Programming using Oracle 11g', category: 'cs', image: '💻',Link:'' },
+  //CS407
   { id: 66, code: 'CS407', title: 'Routing and Switching', category: 'cs', image: '💻',Link:'' },
   { id: 67, code: 'CS408', title: 'Human Computer Interaction', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1EQLAulKe0vjKtlOldnoVUGeQHqu9WSyL/view?usp=sharing',
