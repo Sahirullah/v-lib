@@ -530,6 +530,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1BanEgy_qzXWst3Lf97jytt9T8hhOJdeN/view?usp=sharing',
     'https://drive.google.com/file/d/1zjCpFIBEMOXah_xnFlPBXf0VDGAsCsfx/view?usp=sharing'
   ] },
+  //CS506
   { id: 74, code: 'CS506', title: 'Web Design and Development', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1hE0ufqMmpw-lW3Lw2VhDr4Hy4n4ukPsS/view?usp=sharing',
     'https://drive.google.com/file/d/1T4Vzrmh-Fg-_CueYtz8bh9mZ3IA90JP6/view?usp=sharing',
