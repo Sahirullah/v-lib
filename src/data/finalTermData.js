@@ -520,6 +520,7 @@ export const finalTermDataPart2 = [
     'https://docs.google.com/document/d/1Kvsomkte-A6ONIOBVsCTAnQP14jErdXq/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1EJEmyUpW96pJcq5A9uh2eDL-A9jWA82R/view?usp=sharing'
   ] },
+  //CS504
   { id: 73, code: 'CS504', title: 'Software Engineering I', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/14VhyJ7iDsFh7XUE6xrRJ5F7FzSFX2o0G/view?usp=sharing',
     'https://drive.google.com/file/d/1Q6NLtEcl7cvhcR2Bp19xnJK3Xnx_BdXO/view?usp=sharing',
