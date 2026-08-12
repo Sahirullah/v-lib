@@ -456,6 +456,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1JFhCTdOheAOssUEQ_yvQJcMi-DeLWBHb/view?usp=sharing',
     'https://drive.google.com/file/d/1FIboOT2FixoBfg91zUuYyFE988aOrJ46/view?usp=sharing'
   ] },
+  //CS405
   { id: 66, code: 'CS405', title: ' Database Programming using Oracle 11g', category: 'cs', image: '💻',Link:'' },
   { id: 66, code: 'CS407', title: 'Routing and Switching', category: 'cs', image: '💻',Link:'' },
   { id: 67, code: 'CS408', title: 'Human Computer Interaction', category: 'cs', image: '💻',links:[
