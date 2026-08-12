@@ -537,6 +537,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/13KtPGogcNJP3pSEbaqtJicdrsJ9EzOuB/view?usp=sharing',
     'https://drive.google.com/file/d/1qp2ZXFgR-hMaGemHpoJy6-IiyKvP9ZDV/view?usp=sharing'
   ] },
+  //CS507
   { id: 75, code: 'CS507', title: 'Information Systems', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1vv8tXRu64234fPCQqLpz8QSAdblWBPOi/view?usp=sharing',
     'https://drive.google.com/file/d/1BGZA43XgqylMJvDXLZX_TXbH5i0XmmHM/view?usp=sharing',
