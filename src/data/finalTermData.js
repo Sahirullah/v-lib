@@ -628,6 +628,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/17qN3nbKx7jN5vQQwA9NgxIVzwJB7-awe/view?usp=sharing',
     'https://drive.google.com/file/d/1SYHmVbxLhwJ0vI86BNvrB5InkiaSXhsE/view?usp=sharing'
   ]},
+  //Cs609
   { id: 83, code: 'CS609', title: 'System Programming', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1BgZwTTCb0g_fUt8d4s0jwZcP6XpntdW4/view?usp=sharing',
     'https://drive.google.com/file/d/12VdPlJg6ckkEWyAPWREcEA3-gy6VSbz1/view?usp=sharing',
