@@ -646,6 +646,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1HXS6jh93cr8rE1yUbh0vZjN0Mt06dI5w/view?usp=sharing',
     'https://docs.google.com/document/d/1HvTL2XtouVmyER5YE0ONQGy-dPzMkjYe/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  //CS610
   { id: 84, code: 'CS610', title: 'Computer Networks', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1at6oxB2qHcyiheaHmH5y6aHUG6KcwwiG/view?usp=sharing',
     'https://drive.google.com/file/d/1Iz-XEauU6dw_sixsmz25xXP6zH_O6tFi/view?usp=sharing'
