@@ -616,6 +616,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/10QuZQq2yH4DPV4IDlG-FNL2vGjL4S4Qg/view?usp=sharing',
     'https://drive.google.com/file/d/1vTneuAU8Ie-wNy8gXrbhxdbyj6edme9H/view?usp=sharing'
   ]},
+  //CS607
   { id: 82, code: 'CS607', title: 'Artificial Intelligence', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1SsiwYIDICrTc87PKF7hdx1RHDwgyPSQp/view?usp=sharing',
     'https://drive.google.com/file/d/1Lcy8ydcP9upNCi0dOPOG4aMQCxVId-sL/view?usp=sharing',
