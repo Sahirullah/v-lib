@@ -651,6 +651,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1at6oxB2qHcyiheaHmH5y6aHUG6KcwwiG/view?usp=sharing',
     'https://drive.google.com/file/d/1Iz-XEauU6dw_sixsmz25xXP6zH_O6tFi/view?usp=sharing'
   ]},
+  //CS611
   { id: 85, code: 'CS611', title: 'Software Quality Engineering', category: 'cs', image: '💻',links:'' },
   { id: 86, code: 'CS614', title: 'Data Warehousing', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1lpFLE0RKayuB3D_muAGpkGYJzwSOGB4V/view?usp=sharing',
