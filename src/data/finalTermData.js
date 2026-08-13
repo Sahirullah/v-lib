@@ -667,6 +667,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/1T4fSfhgl-x_2xwnXHMSPlxGFcTEgOoHW/view?usp=sharing',
     'https://docs.google.com/document/d/1WPAtqj4PrrfFDMWWuu_e350BrShqrtnj/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  //CS615
   { id: 87, code: 'CS615', title: 'Software Project Management', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1A6RpizOaG2kD2DJlwFZsGRwPu3sSl_jI/view?usp=sharing',
     'https://drive.google.com/file/d/1-t9AJ0eq7tFSLJvrpj5U0OVi9ccmqPEl/view?usp=sharing',
