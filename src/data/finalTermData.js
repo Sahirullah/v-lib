@@ -682,6 +682,7 @@ export const finalTermDataPart2 = [
   { id: 88, code: 'CS620', title: '-------------------------------', category: 'cs', image: '💻',links:[] },
   //CS625
   { id: 89, code: 'CS625', title: 'Professional Practices', category: 'cs', image: '💻',Link:'' },
+  //CS701
   { id: 90, code: 'CS701', title: 'Theory of Computation', category: 'cs', image: '💻',links:[
     'https://docs.google.com/document/d/1qSAffsjclAd59ikvNeeAxXY-7sI4_z9K/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ] },
