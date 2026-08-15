@@ -34,6 +34,7 @@ export const midtermData = [
   // BNK - Banking
   //BNK601
   { id: 27, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼' },
+  //BNK602
   { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼' },
   { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' },
   { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' },
