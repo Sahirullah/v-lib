@@ -38,6 +38,7 @@ export const midtermData = [
   { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼' },
   //BNK604
   { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' },
+  //BNK610
   { id: 30, code: 'BNK610', title: 'Islamic Banking Practices', category: 'bnk', image: '💼' },
   
   // BT - Biotechnology
