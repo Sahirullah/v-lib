@@ -32,6 +32,7 @@ export const midtermData = [
   { id: 26, code: 'BIO734', title: 'Advance Cell Biology', category: 'bio', image: '🧪' },
   
   // BNK - Banking
+  //BNK601
   { id: 27, code: 'BNK601', title: 'Banking Laws & Practices', category: 'bnk', image: '💼' },
   { id: 28, code: 'BNK603', title: 'Consumer Banking', category: 'bnk', image: '💼' },
   { id: 29, code: 'BNK604', title: 'Management of Financial Institutions', category: 'bnk', image: '💼' },
